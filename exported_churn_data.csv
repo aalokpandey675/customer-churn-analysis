@@ -1,0 +1,501 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count
+0002-ORFBO,2021-03-15,Refferal,2025-03-15,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,1982-04-12,2025-11-12,Y,31.0,1.0
+0003-MKNFE,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,1995-11-23,2024-08-28,Y,10.0,2.0
+0004-TLHLJ,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,1978-02-15,,,,
+0011-IGKFF,2019-05-10,Paid,2025-05-10,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,2001-08-30,,,,
+0013-EXCHZ,2023-01-05,Refferal,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,1990-05-05,2024-01-20,Y,20.0,1.0
+0013-MHZWF,2022-06-18,Paid,2025-06-18,Standard,Annual,,,17.99,720,22,0,durga,India,Delhi,Female,1988-12-10,2025-03-18,N,90.0,1.0
+0013-SMEOE,2021-09-30,Refferal,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,1976-09-21,2024-11-01,N,30.0,1.0
+0014-BMAQU,2020-02-14,Organic,2025-02-14,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,1999-03-14,,,,
+0015-UOCOJ,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,13.99,240,34,0,maya,Nepal,Kathmandu,Female,1985-07-07,2024-08-02,Y,46.0,1.0
+0016-QLJIS,2022-04-03,Organic,2025-04-03,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,1993-10-29,2026-08-28,N,42.0,1.0
+0017-DINOC,2021-12-01,Organic,2025-12-01,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Male,1997-01-22,2023-11-04,N,8.0,1.0
+0017-IUDMW,2023-03-17,Refferal,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,1981-06-18,2024-04-10,Y,25.0,1.0
+0018-NYROU,2020-10-09,Organic,2025-10-09,Standard,Annual,,,13.99,980,19,0,chitra,India,Telangana,Female,2004-12-01,,,,
+0019-EFAEP,2022-08-25,Refferal,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,1992-04-25,2024-09-27,Y,30.0,1.0
+0019-GFNTW,2019-11-11,Paid,2025-11-11,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Male,1979-11-11,,,,
+0020-INWCK,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,1986-02-28,,,,
+0020-JDNXP,2022-01-19,Organic,2024-01-19,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,1994-08-19,,,,
+0021-IKXGC,2021-07-07,Paid,2025-07-07,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,2000-09-02,,,,
+0022-TCJCI,2023-09-14,Refferal,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,1983-12-30,2024-09-14,N,90.0,2.0
+0023-HGHWL,2020-06-23,Organic,2025-06-23,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Male,1991-05-14,,,,
+0023-UYUPN,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Female,1977-10-06,2026-04-08,Y,97.0,1.0
+01206-CMWRS,2020-11-27,Social Media,2026-10-01,Premium,Monthly,,,29.74,1609,6,0,Aarav Das,India,Delhi,Female,1964-01-10,,,,
+01301-BXKUM,2022-07-26,Advertisement,2023-07-26,Premium,Annual,2025-12-05,Billing issue,29.37,1967,79,1,Ananya Nair,India,Madhya Pradesh,Male,1976-02-20,,,,
+01769-SPCYS,2019-06-13,Organic,2019-07-13,Premium,Monthly,2022-09-01,Product missing features,38.47,2447,94,1,Arjun Pandey,India,Delhi,Male,1983-10-18,,,,
+01854-YDAJD,2022-08-22,Advertisement,2026-10-01,Premium,Monthly,,,67.28,1840,37,0,Kabir Patel,India,Bihar,Male,1974-05-26,,,,
+01860-SJDYJ,2020-05-26,Organic,2026-10-01,Premium,Monthly,,,53.59,2486,40,0,Aadhya Malhotra,India,Madhya Pradesh,Female,1966-06-28,,,,
+02016-DHMLQ,2024-12-20,Advertisement,2025-03-20,Standard,Quarterly,2026-07-06,Price too high,23.91,1506,81,1,Sai Nair,India,Tamil Nadu,Male,1980-10-11,,,,
+02150-BWMZQ,2019-05-01,Advertisement,2019-05-31,Premium,Monthly,2023-03-22,Billing issue,30.82,2106,75,1,Riya Sinha,India,Delhi,Female,1968-12-11,2026-08-02,N,73.0,3.0
+02802-AECRX,2025-11-05,Referral,2026-10-01,Standard,Quarterly,,,29.49,1861,6,0,Arjun Jain,India,Rajasthan,Female,2004-03-07,,,,
+03049-VZLXD,2023-03-20,Organic,2026-10-01,Basic,Monthly,,,15.13,1221,36,0,Aarohi Rao,India,West Bengal,Male,1969-04-10,2025-02-25,N,6.0,2.0
+03200-GWBQQ,2020-04-30,Refferal,2026-10-01,Basic,Monthly,,,15.45,989,18,0,Vihaan Sharma,India,Delhi,Male,1983-03-19,,,,
+03368-VSTKS,2021-01-23,Referral,2021-04-23,Basic,Quarterly,2024-01-08,Billing issue,11.91,1235,87,1,Ira Nair,India,Tamil Nadu,Male,1970-08-25,,,,
+03557-YYHYU,2024-07-06,Advertisement,2026-10-01,Standard,Monthly,,,32.34,766,53,0,Ananya Pandey,India,Uttar Pradesh,Male,1970-08-21,,,,
+03568-CCDEN,2019-11-27,Advertisement,2020-11-26,Standard,Annual,2022-02-10,Product missing features,30.46,1356,90,1,Diya Joshi,India,Bihar,Female,1985-02-12,2026-06-04,N,82.0,3.0
+03693-VBLPC,2025-02-27,Organic,2026-10-01,Basic,Monthly,,,12.03,1124,20,0,Pooja Sharma,India,Gujarat,Female,1980-02-16,2026-07-02,N,37.0,2.0
+03695-UYKUA,2023-04-06,Refferal,2026-10-01,Basic,Quarterly,,,13.97,582,6,0,Kiara Nair,India,Uttar Pradesh,Female,1991-04-12,,,,
+03747-HFTHT,2021-07-20,Advertisement,2021-08-19,Standard,Monthly,2021-11-20,Switched to competitor,29.27,1027,90,1,Aarohi Jain,India,Kerala,Male,1972-04-24,2025-06-02,Y,26.0,1.0
+03811-CRKLU,2023-10-06,Social Media,2026-10-01,Standard,Quarterly,,,32.47,1381,33,0,Ira Pandey,India,West Bengal,Female,1999-03-15,,,,
+03869-JTMMW,2022-01-22,Organic,2026-10-01,Standard,Annual,,,17.88,1408,1,0,Priya Mehta,India,Delhi,Male,1982-02-07,,,,
+03911-YRYLY,2021-09-17,Social Media,2026-10-01,Standard,Quarterly,,,17.47,741,45,0,Vihaan Jain,India,Uttar Pradesh,Female,1977-05-26,2024-09-07,N,94.0,1.0
+04051-LCVNR,2025-08-27,Advertisement,2026-10-01,Basic,Quarterly,,,11.43,456,37,0,Reyansh Patel,India,Rajasthan,Female,1995-03-11,2024-10-17,N,65.0,1.0
+04343-PPNDK,2022-10-14,Advertisement,2022-11-13,Standard,Monthly,2024-04-09,Switched to competitor,19.3,1200,62,1,Neha Jain,India,Kerala,Male,1968-01-09,2025-10-29,N,46.0,3.0
+04420-BAUUY,2019-09-16,Paid,2026-10-01,Basic,Annual,,,13.96,1000,11,0,Saanvi Sharma,India,Bihar,Male,1972-02-01,,,,
+04436-WALKW,2020-01-03,Referral,2022-01-02,Basic,Two Year,2021-11-29,Poor customer service,12.78,807,56,1,Vihaan Chauhan,India,Bihar,Female,1976-02-04,,,,
+04561-DCHES,2020-12-10,Referral,2026-10-01,Standard,Quarterly,,,16.22,901,29,0,Riya Nair,India,Tamil Nadu,Female,1986-10-05,2026-04-19,N,29.0,2.0
+04748-FKJPS,2019-12-28,Referral,2020-01-27,Basic,Monthly,2022-03-24,Product missing features,6.79,912,94,1,Aarav Patel,India,Kerala,Male,1970-07-21,,,,
+04890-ABRYZ,2019-07-08,Social Media,2026-10-01,Basic,Monthly,,,9.57,871,16,0,Raghav Singh,India,Kerala,Male,1987-02-25,,,,
+04987-TZAKN,2023-09-05,Paid,2026-10-01,Premium,Monthly,,,57.12,3664,29,0,Ira Sharma,India,Kerala,Female,1974-12-02,,,,
+05014-QDRVS,2023-03-23,Organic,2026-10-01,Basic,Annual,,,7.52,268,47,0,Vihaan Jain,India,West Bengal,Female,1979-09-23,,,,
+05499-CBUUV,2019-05-10,Paid,2026-10-01,Premium,Annual,,,31.95,1768,25,0,Ira Jain,India,Karnataka,Female,2002-08-16,,,,
+06237-QXZDK,2023-01-02,Advertisement,2026-10-01,Premium,Annual,,,48.17,2582,24,0,Ishaan Chauhan,India,Telangana,Male,2002-02-03,,,,
+06258-KCXXZ,2020-11-15,Social Media,2020-12-15,Standard,Monthly,2022-05-14,No longer needed,24.13,1665,95,1,Arjun Jain,India,West Bengal,Male,2003-07-06,,,,
+06311-CNRJV,2019-10-26,Organic,2026-10-01,Standard,Annual,,,26.23,1556,25,0,Aarav Verma,India,Karnataka,Female,1974-04-05,2025-04-14,N,90.0,1.0
+06530-LGUXC,2021-04-21,Social Media,2021-05-21,Standard,Monthly,2025-01-14,Service quality,21.32,1433,71,1,Nisha Sharma,India,West Bengal,Female,1976-04-01,,,,
+06539-VRGQK,2023-09-25,Advertisement,2023-10-25,Standard,Monthly,2025-04-06,Service quality,16.66,983,97,1,Neha Mehta,India,Madhya Pradesh,Male,1972-01-08,,,,
+06600-BQLCB,2023-10-20,Social Media,2026-10-01,Premium,Quarterly,,,42.97,1042,51,0,Kavya Pandey,India,Maharashtra,Female,1984-07-04,,,,
+06801-YVAYS,2021-02-17,Advertisement,2026-10-01,Premium,Annual,,,61.7,2367,48,0,Keshav Chauhan,India,Kerala,Male,1990-08-17,,,,
+06895-ZPBVZ,2022-12-10,Advertisement,2023-01-09,Premium,Monthly,2023-12-05,Price too high,68.02,1580,74,1,Vivaan Shah,India,West Bengal,Female,2001-03-01,,,,
+06949-MGCQJ,2024-02-16,Refferal,2024-03-17,Basic,Monthly,2026-07-08,Billing issue,11.8,563,57,1,Vihaan Joshi,India,Uttar Pradesh,Female,1984-12-26,,,,
+07102-MRQKA,2023-02-17,Referral,2026-10-01,Standard,Annual,,,34.3,1495,16,0,Rahul Pandey,India,Madhya Pradesh,Female,1996-03-07,2026-04-02,N,19.0,2.0
+07265-TNTLQ,2023-09-26,Advertisement,2026-10-01,Standard,Monthly,,,26.7,1285,17,0,Aditya Verma,India,Bihar,Male,1968-09-16,,,,
+07295-APWHS,2025-01-18,Social Media,2026-10-01,Standard,Quarterly,,,32.64,1439,26,0,Diya Shah,India,Gujarat,Female,1968-05-23,,,,
+07655-BSPTK,2020-12-24,Advertisement,2026-10-01,Basic,Monthly,,,12.56,743,50,0,Aman Sharma,India,West Bengal,Female,1980-01-21,,,,
+07776-RWVQD,2021-06-15,Refferal,2021-07-15,Premium,Monthly,2025-04-14,No longer needed,39.21,1789,88,1,Riya Sinha,India,Tamil Nadu,Male,1988-03-06,,,,
+07893-LYHGE,2025-05-06,Organic,2026-10-01,Standard,Monthly,,,21.67,1238,54,0,Aadhya Patel,India,Kerala,Female,1960-02-18,2026-02-13,N,35.0,3.0
+07910-XQJRV,2025-11-09,Advertisement,2026-02-07,Basic,Quarterly,2026-05-17,No longer needed,15.36,682,77,1,Sai Sharma,India,Rajasthan,Female,2004-05-05,,,,
+08392-PMREQ,2023-08-22,Referral,2026-10-01,Standard,Monthly,,,20.37,824,2,0,Rahul Pandey,India,Kerala,Male,1975-02-09,,,,
+08400-DNTFP,2020-02-09,Refferal,2026-10-01,Premium,Two Year,,,68.55,3567,45,0,Reyansh Mehta,India,Madhya Pradesh,Male,1993-04-23,2025-01-17,Y,27.0,1.0
+08805-XZJEL,2019-03-03,Referral,2019-04-02,Premium,Monthly,2021-09-16,Poor customer service,28.83,744,73,1,Aarav Mishra,India,Maharashtra,Male,1974-02-19,2024-10-04,N,51.0,2.0
+09110-CCVCB,2019-09-22,Organic,2019-12-21,Basic,Quarterly,2021-08-31,Price too high,14.08,648,57,1,Keshav Patel,India,Karnataka,Male,1972-07-12,,,,
+09155-LPEZZ,2020-09-03,Advertisement,2026-10-01,Standard,Two Year,,,23.9,409,43,0,Myra Kumar,India,West Bengal,Female,1994-09-08,2023-10-01,N,46.0,1.0
+09308-LBCKZ,2021-01-26,Refferal,2026-10-01,Basic,Annual,,,8.4,611,45,0,Priya Malhotra,India,Karnataka,Female,1999-11-15,,,,
+09392-YJYHA,2021-05-17,Referral,2026-10-01,Standard,Monthly,,,19.51,1452,9,0,Nisha Reddy,India,Kerala,Male,1989-11-22,,,,
+09571-LMZYS,2021-09-14,Refferal,2026-10-01,Premium,Monthly,,,61.37,3326,4,0,Arjun Mehta,India,Tamil Nadu,Female,2004-07-14,2025-04-22,N,61.0,1.0
+09680-KHBYG,2023-11-02,Paid,2026-10-01,Basic,Quarterly,,,15.12,305,7,0,Diya Yadav,India,Gujarat,Male,1991-04-20,2024-09-21,Y,35.0,1.0
+09716-NFUWZ,2020-09-01,Social Media,2026-10-01,Basic,Monthly,,,6.37,286,10,0,Neha Singh,India,Karnataka,Female,1972-08-23,2024-02-27,N,40.0,1.0
+09792-YSNQT,2023-01-25,Referral,2026-10-01,Basic,Annual,,,11.43,598,23,0,Ishaan Verma,India,Rajasthan,Male,1991-10-14,,,,
+10268-HTARS,2023-02-14,Refferal,2023-03-16,Standard,Monthly,2026-08-07,Moved to another location,16.06,1481,81,1,Diya Rao,India,Maharashtra,Male,1989-05-06,2023-12-27,N,45.0,1.0
+10474-QDNXD,2024-01-14,Social Media,2026-10-01,Standard,Quarterly,,,24.07,1369,27,0,Kavya Sinha,India,Delhi,Female,1971-09-13,,,,
+10692-VBULH,2021-02-21,Refferal,2026-10-01,Basic,Annual,,,6.47,518,18,0,Ira Nair,India,Maharashtra,Male,1962-06-10,,,,
+11492-PEKHG,2019-02-22,Refferal,2026-10-01,Premium,Annual,,,44.7,2055,27,0,Nisha Shah,India,Tamil Nadu,Female,1964-06-05,2026-07-12,N,59.0,2.0
+11627-KRJSM,2019-07-05,Advertisement,2019-08-04,Premium,Monthly,2022-08-08,Poor customer service,50.62,2474,79,1,Aditya Joshi,India,West Bengal,Female,1999-04-21,,,,
+11647-TTVDY,2019-02-02,Advertisement,2026-10-01,Standard,Monthly,,,24.17,1408,16,0,Aarav Mishra,India,Maharashtra,Male,1969-06-17,,,,
+11729-PRCGU,2024-10-28,Social Media,2024-11-27,Premium,Monthly,2026-07-04,Moved to another location,52.7,2431,88,1,Kiara Yadav,India,Madhya Pradesh,Male,1992-05-12,,,,
+11965-MQMUE,2023-03-22,Paid,2026-10-01,Premium,Annual,,,31.19,1708,16,0,Aarav Mishra,India,Tamil Nadu,Male,1969-01-14,,,,
+11966-ZSKAZ,2023-02-05,Refferal,2026-10-01,Basic,Monthly,,,6.11,334,27,0,Riya Patel,India,Bihar,Male,2004-02-22,2023-05-11,N,21.0,1.0
+12093-WTHVX,2022-03-05,Social Media,2026-10-01,Basic,Two Year,,,13.0,611,7,0,Saanvi Shah,India,Delhi,Male,1995-07-11,2026-03-08,N,65.0,1.0
+12111-ARXVC,2021-06-22,Referral,2026-10-01,Basic,Monthly,,,9.36,945,48,0,Aman Singh,India,West Bengal,Male,1997-02-27,,,,
+12394-JPPLH,2023-04-11,Social Media,2026-10-01,Standard,Annual,,,31.87,595,32,0,Priya Pandey,India,Karnataka,Male,1996-07-08,,,,
+12411-BMMMY,2019-02-18,Paid,2026-10-01,Basic,Annual,,,9.81,601,34,0,Diya Shah,India,Tamil Nadu,Male,1984-11-23,2024-07-05,N,56.0,1.0
+12534-RMRGY,2024-03-17,Organic,2026-10-01,Basic,Quarterly,,,9.12,738,47,0,Myra Patel,India,Gujarat,Male,2003-07-10,2023-07-01,N,97.0,1.0
+13183-CENAR,2022-08-13,Advertisement,2026-10-01,Standard,Annual,,,15.29,1191,22,0,Aarohi Sinha,India,Rajasthan,Female,1977-01-23,,,,
+13185-CNVLN,2021-06-11,Refferal,2021-07-11,Standard,Monthly,2021-11-11,Price too high,20.91,605,85,1,Neha Mehta,India,Gujarat,Male,1995-08-22,,,,
+13666-PHLMV,2023-05-12,Paid,2026-10-01,Basic,Monthly,,,8.77,751,51,0,Saanvi Nair,India,Telangana,Male,1971-11-22,2023-02-19,N,93.0,1.0
+13688-SXVTC,2020-11-30,Referral,2021-02-28,Premium,Quarterly,2021-10-22,Poor customer service,58.97,1333,100,1,Ira Nair,India,Madhya Pradesh,Female,2000-06-03,,,,
+13874-VRHVL,2024-10-15,Advertisement,2026-10-01,Premium,Quarterly,,,36.64,1796,48,0,Ishaan Malhotra,India,Tamil Nadu,Female,1972-07-13,2026-05-05,Y,98.0,1.0
+14403-VJCXR,2024-05-13,Organic,2026-10-01,Premium,Monthly,,,47.36,1155,10,0,Raghav Gupta,India,Uttar Pradesh,Male,1960-03-25,2026-03-06,N,36.0,3.0
+14500-HGEML,2019-11-22,Organic,2020-02-20,Basic,Quarterly,2020-12-24,Service quality,9.13,781,72,1,Priya Chauhan,India,Gujarat,Male,1982-08-21,,,,
+14545-CBHYV,2024-03-02,Advertisement,2026-10-01,Premium,Annual,,,50.09,2849,25,0,Riya Shah,India,Uttar Pradesh,Female,2004-08-13,,,,
+14986-QPRRZ,2025-08-07,Paid,2026-10-01,Standard,Monthly,,,35.94,1472,19,0,Ishaan Mishra,India,Bihar,Female,1966-01-04,,,,
+16151-QHZLP,2024-07-06,Refferal,2026-10-01,Standard,Monthly,,,25.01,949,8,0,Neha Shah,India,Uttar Pradesh,Female,1972-02-27,,,,
+16338-NALVD,2021-02-21,Social Media,2026-10-01,Premium,Quarterly,,,26.71,1162,2,0,Reyansh Pandey,India,Gujarat,Male,1962-04-24,2024-11-29,N,76.0,1.0
+16707-RFRFS,2022-09-20,Refferal,2022-10-20,Basic,Monthly,2023-03-13,No longer needed,7.77,712,71,1,Rahul Pandey,India,Madhya Pradesh,Male,1994-12-24,,,,
+16708-QSQVH,2024-12-16,Advertisement,2026-10-01,Basic,Quarterly,,,10.46,927,21,0,Arjun Sinha,India,Telangana,Male,1965-04-27,2024-11-16,N,17.0,1.0
+16795-RAGFT,2025-04-17,Organic,2026-10-01,Basic,Quarterly,,,11.44,357,38,0,Aarav Patel,India,Telangana,Male,1997-07-02,,,,
+17023-FKBKZ,2019-08-28,Paid,2019-11-26,Standard,Quarterly,2023-01-05,Billing issue,30.19,1539,87,1,Pooja Chauhan,India,Uttar Pradesh,Female,1978-07-23,2025-04-19,N,50.0,1.0
+17371-MASCA,2022-02-12,Organic,2026-10-01,Basic,Monthly,,,14.48,1060,6,0,Ananya Verma,India,West Bengal,Male,1988-06-03,2023-08-06,N,15.0,1.0
+17646-VXLJS,2020-03-23,Organic,2020-04-22,Basic,Monthly,2021-06-14,Switched to competitor,7.47,857,73,1,Aditya Nair,India,Kerala,Male,1972-08-03,2026-08-15,N,68.0,2.0
+17896-EVHUX,2025-09-16,Paid,2027-09-16,Standard,Two Year,,,33.4,1030,9,0,Riya Malhotra,India,Maharashtra,Male,1991-02-26,2026-09-15,N,72.0,1.0
+18019-XPFNG,2022-11-24,Organic,2023-11-24,Standard,Annual,2024-01-07,Billing issue,19.61,1362,74,1,Krishna Jain,India,West Bengal,Female,1985-07-04,,,,
+18159-JCSQN,2020-07-16,Refferal,2026-10-01,Premium,Monthly,,,31.99,887,28,0,Vivaan Sharma,India,Uttar Pradesh,Male,1974-07-20,,,,
+18429-ZNNSL,2019-06-14,Social Media,2019-07-14,Standard,Monthly,2021-03-07,Billing issue,20.0,585,56,1,Kavya Pandey,India,Maharashtra,Male,1995-06-04,,,,
+19047-QGHTD,2023-01-06,Organic,2026-10-01,Basic,Annual,,,11.24,716,34,0,Sneha Malhotra,India,Delhi,Female,1998-01-25,,,,
+19070-WBYHR,2019-02-07,Advertisement,2026-10-01,Standard,Annual,,,15.33,1008,10,0,Kabir Gupta,India,West Bengal,Male,1988-12-16,,,,
+19141-TKUNP,2023-02-17,Refferal,2023-05-18,Premium,Quarterly,2023-05-20,No longer needed,57.76,3111,78,1,Vivaan Joshi,India,Delhi,Male,1972-01-08,2023-01-28,Y,100.0,1.0
+19431-CTMUS,2023-02-20,Referral,2026-10-01,Standard,Quarterly,,,22.78,1258,22,0,Kabir Mishra,India,Telangana,Female,1988-01-03,,,,
+19589-KEFRJ,2019-10-20,Organic,2026-10-01,Standard,Quarterly,,,20.67,941,17,0,Raghav Patel,India,Madhya Pradesh,Female,1992-09-18,2024-05-10,N,64.0,1.0
+19711-HNKBU,2019-07-15,Refferal,2026-10-01,Premium,Annual,,,58.04,2424,7,0,Sai Kumar,India,Telangana,Female,1969-08-12,,,,
+20190-RYZYS,2024-10-05,Paid,2024-11-04,Standard,Monthly,2025-06-23,Moved to another location,24.39,1230,98,1,Ira Mishra,India,Maharashtra,Female,1970-11-25,,,,
+20457-FDBWC,2020-11-09,Advertisement,2026-10-01,Standard,Monthly,,,21.37,1400,29,0,Kavya Gupta,India,Tamil Nadu,Male,2002-06-25,,,,
+20508-DJVVQ,2025-06-24,Organic,2027-06-24,Standard,Two Year,,,21.97,1252,26,0,Kiara Nair,India,Bihar,Male,1996-07-08,2024-01-10,Y,18.0,1.0
+20738-CDPGL,2022-10-31,Social Media,2026-10-01,Basic,Two Year,,,9.27,513,9,0,Ishaan Joshi,India,West Bengal,Female,2003-06-21,,,,
+20830-BBXML,2024-06-28,Organic,2026-10-01,Standard,Monthly,,,16.74,1442,32,0,Rahul Nair,India,Bihar,Female,1997-09-17,2026-07-02,N,60.0,1.0
+21056-FXHNC,2021-08-02,Organic,2026-10-01,Basic,Quarterly,,,7.22,207,51,0,Ishaan Patel,India,Bihar,Female,2005-10-16,2024-06-14,N,100.0,1.0
+21932-CGZBT,2019-03-13,Referral,2019-04-12,Premium,Monthly,2023-03-01,Poor customer service,28.92,710,77,1,Ishaan Shah,India,West Bengal,Female,1996-07-28,,,,
+22357-QHKJZ,2020-01-03,Refferal,2020-04-02,Basic,Quarterly,2020-05-02,Poor customer service,7.41,603,86,1,Sai Rao,India,Tamil Nadu,Male,1997-03-09,,,,
+22834-BTEWW,2019-11-02,Organic,2019-12-02,Basic,Monthly,2022-04-27,Service quality,11.13,464,90,1,Raghav Reddy,India,Gujarat,Male,2000-12-23,,,,
+22918-TTFHP,2024-12-15,Advertisement,2025-12-15,Standard,Annual,2026-08-31,Price too high,29.01,1772,90,1,Vivaan Verma,India,West Bengal,Male,1996-01-14,,,,
+22959-XQXNU,2024-12-10,Paid,2026-12-10,Standard,Two Year,,,24.08,1788,23,0,Kiara Sharma,India,Madhya Pradesh,Female,2002-03-20,,,,
+22976-RLASN,2022-05-19,Refferal,2026-10-01,Standard,Monthly,,,34.3,1903,53,0,Priya Patel,India,Telangana,Male,1997-01-23,,,,
+23299-DPXSM,2024-09-26,Refferal,2026-10-01,Basic,Annual,,,15.04,741,30,0,Sneha Singh,India,Karnataka,Male,1960-11-03,2023-11-04,N,5.0,1.0
+23399-MEDMV,2020-12-16,Social Media,2021-12-16,Premium,Annual,2023-06-15,Price too high,27.59,860,94,1,Vivaan Sharma,India,Gujarat,Female,1975-04-18,2025-08-04,N,68.0,1.0
+23662-YZWDW,2023-08-24,Advertisement,2026-10-01,Standard,Monthly,,,31.27,1679,26,0,Krishna Nair,India,Karnataka,Male,2005-06-27,2023-07-24,N,88.0,1.0
+23671-EYTNU,2020-04-19,Paid,2026-10-01,Basic,Two Year,,,12.86,922,6,0,Reyansh Verma,India,Delhi,Male,1993-11-05,,,,
+23677-VMWAD,2024-08-16,Referral,2026-10-01,Standard,Annual,,,27.97,1272,22,0,Nisha Mishra,India,Telangana,Female,1965-11-03,2024-02-07,N,61.0,1.0
+24093-WGSVJ,2022-08-26,Refferal,2026-10-01,Standard,Monthly,,,24.13,786,51,0,Reyansh Sharma,India,West Bengal,Female,1992-07-22,2024-11-08,N,94.0,1.0
+24247-BYBYR,2025-07-31,Paid,2025-08-30,Basic,Monthly,2026-09-24,Price too high,15.04,999,81,1,Kiara Jain,India,Kerala,Female,1973-04-27,,,,
+24328-KSHTU,2019-01-24,Advertisement,2026-10-01,Standard,Monthly,,,28.07,2151,26,0,Sai Patel,India,Gujarat,Female,1981-03-07,2026-07-24,N,33.0,1.0
+24419-LGMFG,2023-05-05,Refferal,2026-10-01,Premium,Monthly,,,52.77,2793,31,0,Aditya Reddy,India,Maharashtra,Male,2004-11-04,,,,
+24483-PVWZV,2022-06-19,Paid,2022-07-19,Premium,Monthly,2026-03-26,Product missing features,35.06,1404,59,1,Nisha Jain,India,West Bengal,Male,1998-11-27,,,,
+24664-TGASP,2025-09-18,Social Media,2025-12-17,Premium,Quarterly,2026-08-28,Moved to another location,29.43,1026,84,1,Kiara Reddy,India,Tamil Nadu,Female,1972-10-06,,,,
+24776-TTFXW,2025-05-12,Paid,2026-10-01,Premium,Annual,,,72.61,4430,30,0,Aman Jain,India,Delhi,Male,1971-04-20,2023-08-29,N,55.0,1.0
+24897-LQCSW,2022-07-04,Paid,2026-10-01,Standard,Annual,,,21.6,458,31,0,Saanvi Das,India,Telangana,Male,1987-08-08,,,,
+25300-SDZZD,2020-01-02,Organic,2026-10-01,Standard,Monthly,,,29.98,1136,3,0,Rahul Mehta,India,Telangana,Female,1990-11-07,,,,
+25538-ZDGBF,2023-06-04,Referral,2026-10-01,Basic,Quarterly,,,10.34,597,16,0,Pooja Patel,India,Tamil Nadu,Female,2004-06-15,2026-08-09,N,23.0,2.0
+26184-CUTAU,2020-09-03,Referral,2026-10-01,Basic,Monthly,,,15.57,964,7,0,Kabir Jain,India,Telangana,Male,1980-04-07,,,,
+26342-HULRC,2019-01-24,Paid,2026-10-01,Standard,Quarterly,,,17.98,1155,30,0,Ishaan Sharma,India,Delhi,Male,1960-10-25,2024-08-27,N,61.0,1.0
+26658-VPANR,2024-02-27,Refferal,2026-10-01,Standard,Monthly,,,29.87,2094,18,0,Aarohi Singh,India,Madhya Pradesh,Female,1960-07-27,,,,
+26939-LQSFK,2025-03-17,Social Media,2025-04-16,Standard,Monthly,2026-07-06,Poor customer service,27.35,1651,100,1,Saanvi Malhotra,India,Bihar,Female,1988-03-05,2026-08-13,N,47.0,1.0
+26945-NSNSJ,2020-07-29,Social Media,2026-10-01,Standard,Monthly,,,18.57,1523,9,0,Myra Sharma,India,Bihar,Female,1989-07-14,,,,
+27105-KNCFF,2019-02-06,Advertisement,2026-10-01,Basic,Monthly,,,8.39,286,40,0,Rahul Malhotra,India,Bihar,Female,1983-05-07,2024-04-19,N,16.0,1.0
+27309-TNSWS,2020-07-21,Organic,2026-10-01,Standard,Annual,,,17.64,1561,45,0,Kabir Malhotra,India,Rajasthan,Male,1996-03-14,2023-06-16,N,36.0,1.0
+27641-LGLEE,2021-01-18,Paid,2026-10-01,Premium,Monthly,,,75.14,4566,29,0,Vihaan Joshi,India,Delhi,Male,1991-03-17,2026-08-07,N,63.0,1.0
+27736-TKCRJ,2024-12-26,Social Media,2025-01-25,Premium,Monthly,2026-08-14,Product missing features,43.61,2051,95,1,Sai Chauhan,India,Gujarat,Female,1966-03-26,,,,
+27854-YMEKP,2019-05-07,Social Media,2019-06-06,Premium,Monthly,2021-01-17,Poor customer service,27.62,1852,84,1,Saanvi Joshi,India,Telangana,Female,1986-11-16,,,,
+28266-KLRVF,2022-08-10,Social Media,2022-09-09,Standard,Monthly,2024-04-06,Switched to competitor,20.32,1300,85,1,Aarohi Chauhan,India,Tamil Nadu,Male,1984-12-12,,,,
+28751-BRJJG,2022-06-09,Referral,2026-10-01,Standard,Annual,,,15.19,1039,37,0,Krishna Nair,India,Karnataka,Female,1960-02-13,,,,
+29251-QELXV,2025-05-10,Organic,2026-10-01,Premium,Quarterly,,,35.16,1489,54,0,Kiara Kumar,India,Delhi,Male,1976-03-14,2023-11-25,N,66.0,1.0
+29693-XMGMK,2019-04-22,Referral,2019-05-22,Basic,Monthly,2020-11-04,Product missing features,14.66,851,75,1,Kavya Chauhan,India,Telangana,Female,1970-08-05,,,,
+30299-JQJLM,2025-06-26,Referral,2026-10-01,Basic,Monthly,,,6.66,493,31,0,Kabir Sinha,India,Madhya Pradesh,Male,1978-05-02,2024-08-23,N,7.0,1.0
+30592-TAXTC,2021-12-24,Social Media,2026-10-01,Basic,Quarterly,,,10.95,779,9,0,Pooja Das,India,Uttar Pradesh,Male,1968-07-14,,,,
+30855-JRYBG,2022-05-18,Organic,2026-10-01,Basic,Annual,,,9.62,235,23,0,Raghav Yadav,India,Telangana,Male,1992-04-25,,,,
+31080-GBCTM,2024-06-13,Referral,2026-10-01,Standard,Quarterly,,,20.02,1353,37,0,Krishna Singh,India,Bihar,Female,1968-11-21,,,,
+31306-PBTEZ,2024-08-24,Advertisement,2024-09-23,Standard,Monthly,2026-07-28,Price too high,14.45,1387,85,1,Rahul Sinha,India,Karnataka,Male,2001-08-24,,,,
+31535-XUBRW,2020-10-13,Advertisement,2026-10-01,Premium,Annual,,,30.66,1773,6,0,Aarav Pandey,India,Maharashtra,Male,1970-08-15,,,,
+31746-MXSKX,2023-03-22,Refferal,2026-10-01,Premium,Monthly,,,34.85,565,45,0,Neha Patel,India,Kerala,Female,1985-09-03,2025-08-08,N,62.0,1.0
+32024-WGDKB,2020-03-19,Referral,2026-10-01,Premium,Two Year,,,64.4,1374,22,0,Myra Joshi,India,Rajasthan,Female,2002-02-12,,,,
+32551-GWZFP,2023-08-27,Refferal,2024-08-26,Basic,Annual,2025-05-29,Billing issue,8.66,917,64,1,Rohan Gupta,India,Rajasthan,Male,1998-09-24,,,,
+32616-EVGMV,2024-04-19,Paid,2026-10-01,Basic,Annual,,,8.87,740,45,0,Myra Mishra,India,Uttar Pradesh,Female,1991-09-24,,,,
+33093-KPGRW,2024-04-08,Paid,2026-10-01,Basic,Annual,,,13.22,878,49,0,Diya Verma,India,Maharashtra,Female,1978-03-27,2026-02-27,N,58.0,1.0
+33097-EKHLS,2025-01-05,Advertisement,2026-10-01,Premium,Monthly,,,55.04,3326,37,0,Diya Pandey,India,Rajasthan,Female,1968-11-08,2023-12-30,Y,82.0,1.0
+33217-EDTMF,2019-01-01,Social Media,2026-10-01,Basic,Annual,,,11.19,514,7,0,Pooja Sharma,India,Telangana,Male,1979-11-10,,,,
+33606-RPDHN,2019-11-29,Social Media,2026-10-01,Basic,Quarterly,,,11.76,1010,50,0,Sai Malhotra,India,Tamil Nadu,Male,1997-10-05,2025-08-20,Y,28.0,1.0
+33635-MACRY,2023-11-05,Organic,2026-10-01,Standard,Two Year,,,17.21,1027,26,0,Neha Yadav,India,Bihar,Female,1985-10-27,2025-11-30,N,54.0,2.0
+33711-NQULP,2022-05-14,Referral,2026-10-01,Premium,Monthly,,,69.0,2167,41,0,Myra Gupta,India,Telangana,Male,1993-04-12,,,,
+33745-YMJLJ,2020-02-15,Paid,2026-10-01,Basic,Annual,,,10.01,766,9,0,Diya Nair,India,Bihar,Female,1975-06-22,,,,
+34159-RTUBZ,2025-01-08,Advertisement,2027-01-08,Standard,Two Year,,,15.51,717,43,0,Nisha Pandey,India,Gujarat,Female,1994-09-28,,,,
+34827-XRFFW,2025-07-18,Social Media,2026-10-01,Standard,Quarterly,,,23.85,1721,8,0,Kabir Joshi,India,Rajasthan,Female,1983-05-19,,,,
+34828-JKEAG,2021-09-19,Organic,2021-10-19,Standard,Monthly,2022-09-14,Poor customer service,23.82,1313,56,1,Myra Shah,India,Kerala,Male,1980-11-24,,,,
+35584-WDHKG,2025-07-13,Referral,2026-10-01,Premium,Monthly,,,36.54,2379,25,0,Aarohi Singh,India,Bihar,Male,1997-04-16,,,,
+35698-BNPSP,2022-10-21,Paid,2026-10-01,Premium,Quarterly,,,68.11,2195,25,0,Neha Reddy,India,Maharashtra,Male,1996-11-11,2025-10-28,N,100.0,1.0
+35754-RPPRH,2022-02-24,Advertisement,2026-10-01,Basic,Monthly,,,13.4,964,38,0,Arjun Rao,India,Kerala,Male,1978-08-03,,,,
+35766-ETWEE,2019-06-23,Organic,2026-10-01,Premium,Monthly,,,41.76,1733,37,0,Sneha Patel,India,Karnataka,Female,1969-02-04,2024-02-04,Y,44.0,1.0
+36222-NTHBX,2023-01-19,Refferal,2026-10-01,Premium,Monthly,,,69.03,3371,24,0,Aarohi Malhotra,India,Karnataka,Female,1984-02-08,,,,
+36773-BDHTP,2019-11-26,Advertisement,2026-10-01,Standard,Annual,,,29.88,761,2,0,Kabir Nair,India,Uttar Pradesh,Female,1967-08-23,,,,
+36777-WYCZE,2021-09-13,Referral,2021-10-13,Standard,Monthly,2023-11-20,Price too high,26.7,1826,84,1,Riya Pandey,India,Maharashtra,Male,1992-11-11,2024-06-10,N,8.0,2.0
+36920-LKBWT,2020-08-27,Paid,2026-10-01,Basic,Monthly,,,7.96,1168,49,0,Raghav Singh,India,Karnataka,Female,1970-02-17,2024-06-15,N,18.0,1.0
+37212-HAUYD,2025-05-21,Refferal,2025-08-19,Premium,Quarterly,2026-07-22,Poor customer service,41.22,2945,57,1,Aditya Chauhan,India,Bihar,Female,1984-04-13,,,,
+37631-VHFPY,2022-04-06,Referral,2026-10-01,Basic,Monthly,,,13.4,860,48,0,Pooja Nair,India,Madhya Pradesh,Female,1984-12-24,,,,
+38065-VNCED,2023-06-19,Organic,2026-10-01,Premium,Annual,,,52.27,2603,53,0,Aadhya Joshi,India,Gujarat,Male,1983-09-19,,,,
+38157-QAXGR,2025-06-25,Advertisement,2025-07-25,Premium,Monthly,2026-09-08,Poor customer service,72.01,2805,98,1,Raghav Reddy,India,Karnataka,Male,1971-03-02,2025-01-14,N,87.0,1.0
+38194-QMCJZ,2020-05-30,Social Media,2026-10-01,Basic,Quarterly,,,11.49,684,39,0,Aditya Patel,India,Uttar Pradesh,Male,1963-04-19,,,,
+38504-CSPHZ,2023-02-24,Paid,2023-03-26,Standard,Monthly,2023-10-16,Product missing features,34.28,963,65,1,Aditya Singh,India,Karnataka,Male,1997-03-11,,,,
+39044-PDFER,2025-10-05,Refferal,2026-10-01,Basic,Monthly,,,14.04,901,43,0,Aman Kumar,India,Gujarat,Female,1965-09-24,,,,
+39360-GBLTP,2021-03-30,Referral,2021-04-29,Standard,Monthly,2024-03-21,Poor customer service,14.88,1258,93,1,Vivaan Yadav,India,Bihar,Female,2004-01-25,,,,
+39467-NHBBB,2024-08-24,Paid,2026-10-01,Basic,Annual,,,10.62,458,54,0,Keshav Sinha,India,Madhya Pradesh,Female,1986-02-15,2023-02-08,N,89.0,1.0
+39623-TKLQN,2025-02-23,Refferal,2026-10-01,Standard,Monthly,,,24.53,1629,9,0,Arjun Das,India,Karnataka,Female,1978-07-05,2023-08-30,N,77.0,1.0
+39660-VNJEC,2024-02-19,Advertisement,2026-10-01,Standard,Annual,,,29.23,1538,40,0,Kavya Nair,India,Telangana,Female,1993-11-11,2025-02-12,N,21.0,2.0
+40099-BLNUU,2024-11-05,Advertisement,2026-10-01,Basic,Monthly,,,6.6,812,48,0,Ananya Sinha,India,Delhi,Female,1974-12-19,,,,
+40353-UVQVP,2023-09-26,Referral,2026-10-01,Standard,Quarterly,,,31.39,2024,45,0,Krishna Yadav,India,Karnataka,Female,1995-07-13,,,,
+40384-SHUHC,2021-06-04,Organic,2021-09-02,Premium,Quarterly,2022-08-05,Moved to another location,45.36,1451,72,1,Aditya Shah,India,Kerala,Female,1972-07-08,,,,
+40504-GUJYE,2019-10-11,Referral,2026-10-01,Premium,Annual,,,46.45,1706,41,0,Pooja Joshi,India,Tamil Nadu,Male,2003-09-01,2025-02-04,N,32.0,1.0
+40734-XZKLC,2022-04-28,Refferal,2022-05-28,Standard,Monthly,2026-01-12,No longer needed,32.21,611,99,1,Aarohi Jain,India,Tamil Nadu,Male,1996-08-22,,,,
+40790-MZVVN,2019-09-06,Refferal,2026-10-01,Premium,Monthly,,,70.49,1492,51,0,Rahul Singh,India,Karnataka,Male,1998-10-15,,,,
+41397-MCKLF,2020-03-16,Paid,2026-10-01,Standard,Annual,,,29.72,846,24,0,Aarohi Malhotra,India,West Bengal,Female,1963-01-10,2026-06-10,N,79.0,1.0
+41757-PKMRZ,2025-02-14,Organic,2026-10-01,Basic,Quarterly,,,14.29,1266,45,0,Krishna Singh,India,Uttar Pradesh,Male,1982-02-12,2025-10-07,N,22.0,2.0
+41764-SMSWP,2021-07-02,Organic,2026-10-01,Standard,Quarterly,,,17.89,994,50,0,Vihaan Joshi,India,Bihar,Female,1986-06-06,2026-03-11,N,92.0,1.0
+41774-WFSAN,2024-12-19,Organic,2025-01-18,Standard,Monthly,2026-08-28,Switched to competitor,25.17,1869,87,1,Sneha Malhotra,India,Bihar,Male,1999-11-22,,,,
+41818-NHJRA,2024-09-09,Advertisement,2024-10-09,Standard,Monthly,2026-06-11,Switched to competitor,27.96,1183,84,1,Saanvi Rao,India,Tamil Nadu,Female,1975-05-24,,,,
+42090-ZBEQS,2025-05-04,Organic,2027-05-04,Standard,Two Year,,,17.69,920,16,0,Riya Malhotra,India,Karnataka,Female,1967-10-08,,,,
+42606-SEEQK,2024-03-20,Advertisement,2026-10-01,Premium,Annual,,,33.89,1986,23,0,Krishna Joshi,India,Telangana,Male,1991-10-05,,,,
+43107-VTSNZ,2020-08-11,Referral,2026-10-01,Premium,Quarterly,,,71.63,4226,45,0,Vihaan Joshi,India,Gujarat,Male,1965-12-15,,,,
+43557-XTXMM,2025-05-03,Paid,2027-05-03,Basic,Two Year,,,14.72,1477,45,0,Raghav Das,India,Rajasthan,Female,1962-02-09,,,,
+43642-SCWZL,2023-01-19,Refferal,2026-10-01,Standard,Quarterly,,,13.92,811,8,0,Ananya Singh,India,Tamil Nadu,Male,1986-02-25,,,,
+43941-WSHUA,2022-03-24,Social Media,2026-10-01,Standard,Monthly,,,21.77,1537,51,0,Kiara Mishra,India,Gujarat,Male,1999-11-24,,,,
+44001-WDDGE,2020-06-03,Social Media,2026-10-01,Standard,Quarterly,,,30.14,1599,50,0,Neha Mishra,India,Telangana,Male,1968-01-12,,,,
+44016-CVNBC,2021-01-26,Referral,2026-10-01,Standard,Monthly,,,16.34,1176,18,0,Aarav Singh,India,Uttar Pradesh,Male,1964-05-22,,,,
+44484-SZZUT,2020-09-03,Referral,2020-10-03,Premium,Monthly,2022-01-24,Billing issue,62.16,2158,84,1,Aadhya Nair,India,Uttar Pradesh,Male,1979-05-27,,,,
+44525-AEXKE,2023-05-21,Organic,2026-10-01,Basic,Monthly,,,11.35,639,5,0,Ira Sharma,India,Uttar Pradesh,Male,1989-01-12,,,,
+44585-BVWWJ,2022-09-08,Organic,2026-10-01,Standard,Monthly,,,27.29,1325,6,0,Vihaan Verma,India,Telangana,Female,1987-12-04,,,,
+45064-VYCHZ,2023-07-05,Referral,2026-10-01,Premium,Annual,,,69.67,2396,21,0,Vivaan Gupta,India,Delhi,Female,1963-07-25,,,,
+45131-BFSFD,2023-10-01,Refferal,2026-10-01,Standard,Annual,,,14.24,338,42,0,Saanvi Kumar,India,West Bengal,Female,1975-08-26,,,,
+45262-DFTVW,2020-05-19,Advertisement,2026-10-01,Basic,Quarterly,,,9.93,542,6,0,Priya Reddy,India,Uttar Pradesh,Male,1979-11-26,,,,
+46017-NSRBA,2023-09-25,Referral,2026-10-01,Basic,Monthly,,,9.81,507,26,0,Kiara Kumar,India,Delhi,Female,1973-03-20,,,,
+46236-FQZFQ,2022-04-29,Referral,2022-05-29,Basic,Monthly,2025-10-04,Billing issue,12.41,552,76,1,Rahul Mishra,India,Madhya Pradesh,Female,1975-12-14,,,,
+46525-ZPXRN,2020-03-07,Refferal,2026-10-01,Basic,Quarterly,,,14.22,753,7,0,Keshav Sinha,India,West Bengal,Male,1982-05-10,,,,
+46543-SRLCM,2024-07-21,Referral,2024-08-20,Basic,Monthly,2026-09-07,Product missing features,10.43,852,89,1,Kabir Patel,India,Maharashtra,Female,1977-10-13,2025-05-25,N,67.0,1.0
+46714-WXASK,2025-12-27,Social Media,2026-12-27,Premium,Annual,,,29.26,918,9,0,Krishna Reddy,India,Madhya Pradesh,Female,1973-05-15,2026-09-01,N,70.0,1.0
+46758-XTXKZ,2021-01-09,Advertisement,2026-10-01,Standard,Monthly,,,14.83,1230,20,0,Neha Patel,India,Gujarat,Female,1983-09-09,2024-07-19,N,99.0,1.0
+47175-ANRLH,2023-05-05,Paid,2026-10-01,Premium,Annual,,,47.48,1370,9,0,Neha Kumar,India,Karnataka,Male,1963-01-25,,,,
+47214-FGJJB,2024-02-16,Paid,2026-10-01,Premium,Annual,,,74.72,1939,40,0,Ira Malhotra,India,Tamil Nadu,Female,1969-12-28,,,,
+47576-RHJNV,2020-07-12,Paid,2026-10-01,Basic,Quarterly,,,6.07,580,49,0,Arjun Mehta,India,Gujarat,Female,1983-07-09,,,,
+47717-AFNEN,2020-11-28,Referral,2020-12-28,Basic,Monthly,2023-08-07,Switched to competitor,12.96,1162,59,1,Nisha Sharma,India,Uttar Pradesh,Female,1999-12-05,2023-06-26,Y,80.0,1.0
+47843-MLTAE,2024-12-11,Referral,2025-01-10,Premium,Monthly,2026-09-29,Poor customer service,41.19,1585,71,1,Saanvi Sinha,India,Maharashtra,Male,1993-11-11,2023-07-10,N,88.0,1.0
+47975-WZKFK,2025-10-19,Social Media,2027-10-19,Premium,Two Year,,,55.9,949,3,0,Vivaan Verma,India,Rajasthan,Female,1964-02-18,2024-06-18,N,83.0,1.0
+48202-WHVRD,2020-08-07,Refferal,2026-10-01,Standard,Annual,,,26.9,1813,22,0,Nisha Joshi,India,West Bengal,Female,1997-04-17,,,,
+48254-APGCM,2023-08-14,Paid,2026-10-01,Premium,Quarterly,,,75.77,3411,54,0,Kavya Yadav,India,Rajasthan,Male,1981-04-10,,,,
+48333-RRCYP,2021-10-01,Refferal,2022-10-01,Premium,Annual,2024-10-27,Moved to another location,54.97,2759,80,1,Vihaan Chauhan,India,Maharashtra,Male,1990-09-01,2025-04-01,N,50.0,1.0
+49190-TRTHC,2025-03-31,Refferal,2025-04-30,Standard,Monthly,2025-11-06,Moved to another location,13.59,481,79,1,Ishaan Singh,India,Maharashtra,Female,1988-06-25,,,,
+49354-JTVAZ,2023-01-26,Refferal,2026-10-01,Premium,Annual,,,52.74,1926,29,0,Sneha Mishra,India,West Bengal,Male,2002-01-23,2026-06-18,N,98.0,3.0
+49404-WPMPR,2021-07-22,Social Media,2026-10-01,Premium,Annual,,,39.71,2788,2,0,Pooja Patel,India,West Bengal,Male,1964-10-05,2025-12-26,N,64.0,1.0
+49555-CNKLD,2019-12-01,Paid,2026-10-01,Basic,Annual,,,10.85,815,18,0,Rohan Verma,India,Uttar Pradesh,Female,1996-10-03,2024-01-01,N,10.0,1.0
+49747-TZRUE,2019-12-06,Social Media,2026-10-01,Premium,Quarterly,,,57.91,1590,7,0,Aman Mishra,India,Telangana,Male,1979-04-18,,,,
+49925-PRTUP,2023-04-10,Organic,2026-10-01,Basic,Annual,,,7.99,515,11,0,Kiara Mehta,India,West Bengal,Female,2003-12-27,,,,
+49984-UMTTM,2024-11-16,Organic,2026-10-01,Basic,Annual,,,15.44,627,49,0,Kiara Shah,India,Kerala,Female,1970-03-24,,,,
+50080-LTMRR,2024-07-06,Refferal,2026-10-01,Basic,Monthly,,,8.77,871,36,0,Ira Shah,India,Delhi,Male,1960-11-06,2024-04-07,N,6.0,1.0
+50377-JEATU,2019-05-31,Paid,2026-10-01,Basic,Two Year,,,13.06,1104,13,0,Kavya Mehta,India,Telangana,Female,1972-02-27,,,,
+50689-GMGAR,2019-01-25,Refferal,2019-02-24,Standard,Monthly,2020-03-11,Product missing features,21.13,376,77,1,Aman Verma,India,Rajasthan,Male,1979-11-17,,,,
+50726-DVREC,2021-05-17,Referral,2026-10-01,Standard,Annual,,,20.1,547,41,0,Krishna Mehta,India,Madhya Pradesh,Female,1998-06-01,,,,
+50811-RTKLF,2020-05-29,Organic,2026-10-01,Basic,Monthly,,,6.15,799,32,0,Diya Reddy,India,Delhi,Female,1968-04-18,2024-01-17,N,61.0,1.0
+51015-XXBKK,2025-05-09,Social Media,2026-10-01,Standard,Annual,,,34.6,934,37,0,Aarav Malhotra,India,Bihar,Female,1993-08-28,,,,
+51108-ZRYHT,2025-10-02,Organic,2026-10-01,Standard,Monthly,,,17.08,331,26,0,Raghav Mehta,India,Kerala,Male,1973-01-26,,,,
+51300-CPBZM,2023-05-20,Social Media,2025-05-19,Standard,Two Year,2025-09-30,Price too high,29.15,656,87,1,Aadhya Mehta,India,Maharashtra,Female,1965-05-01,,,,
+51336-RSSRG,2023-04-24,Refferal,2026-10-01,Standard,Quarterly,,,33.71,1503,13,0,Riya Yadav,India,Gujarat,Male,1976-04-20,,,,
+51636-HKWAP,2019-11-17,Referral,2026-10-01,Premium,Monthly,,,75.85,4076,54,0,Sai Kumar,India,Tamil Nadu,Male,1967-08-06,,,,
+51859-HMTAS,2019-05-01,Paid,2026-10-01,Premium,Two Year,,,37.27,2172,26,0,Neha Verma,India,Bihar,Female,1975-09-09,,,,
+51993-MCNDC,2021-01-16,Referral,2026-10-01,Standard,Monthly,,,35.75,949,29,0,Krishna Shah,India,Gujarat,Male,1969-11-09,,,,
+52005-TLDNE,2025-01-17,Advertisement,2026-10-01,Basic,Quarterly,,,12.3,1035,37,0,Priya Chauhan,India,Maharashtra,Female,1980-08-15,,,,
+52214-FXHXF,2022-03-05,Paid,2026-10-01,Standard,Quarterly,,,21.25,1410,33,0,Kavya Kumar,India,Karnataka,Male,1990-04-23,,,,
+52407-SZTXE,2024-08-06,Referral,2026-10-01,Basic,Annual,,,11.81,1054,51,0,Priya Nair,India,Bihar,Male,1981-04-20,,,,
+52663-QPZKJ,2025-06-09,Paid,2025-07-09,Premium,Monthly,2026-01-24,Billing issue,55.79,2164,66,1,Ananya Chauhan,India,Kerala,Female,1987-10-26,,,,
+52885-NFEYS,2024-05-04,Paid,2026-10-01,Premium,Annual,,,59.26,3960,41,0,Sneha Das,India,Madhya Pradesh,Female,2005-01-06,,,,
+52990-XMADN,2025-04-25,Refferal,2026-10-01,Basic,Annual,,,13.86,1078,49,0,Diya Rao,India,Tamil Nadu,Male,1982-12-17,,,,
+53083-SQCTR,2025-12-27,Organic,2026-10-01,Standard,Monthly,,,25.93,1638,41,0,Nisha Mehta,India,Madhya Pradesh,Female,2004-10-26,,,,
+53251-QJTRD,2022-04-13,Refferal,2026-10-01,Basic,Monthly,,,14.57,420,44,0,Aadhya Chauhan,India,Delhi,Male,1973-01-19,,,,
+53256-BKTCH,2020-11-03,Organic,2026-10-01,Standard,Annual,,,27.44,1872,27,0,Keshav Gupta,India,Uttar Pradesh,Male,1984-03-21,,,,
+53662-PNRSA,2019-07-21,Refferal,2026-10-01,Basic,Monthly,,,14.83,798,19,0,Ira Chauhan,India,Madhya Pradesh,Female,1989-01-08,2023-12-31,N,77.0,2.0
+53733-ZTKZF,2022-08-16,Advertisement,2026-10-01,Basic,Annual,,,13.44,888,8,0,Vihaan Rao,India,Maharashtra,Male,1989-12-25,2024-10-05,Y,74.0,2.0
+53921-VYNTL,2025-04-09,Refferal,2026-10-01,Standard,Monthly,,,28.92,1966,42,0,Arjun Kumar,India,Delhi,Female,1965-09-13,,,,
+53992-ZZCRG,2022-07-26,Social Media,2023-07-26,Premium,Annual,2026-07-29,Moved to another location,71.69,3606,91,1,Neha Nair,India,Kerala,Male,1974-10-28,,,,
+53995-FRQBW,2022-12-16,Social Media,2023-01-15,Basic,Monthly,2025-01-22,Price too high,12.63,1119,88,1,Krishna Gupta,India,Gujarat,Male,2000-09-19,,,,
+54006-GEDGB,2023-10-22,Social Media,2026-10-01,Basic,Annual,,,7.64,826,27,0,Keshav Jain,India,Kerala,Female,1986-09-07,,,,
+54222-FEWRF,2019-09-07,Paid,2021-09-06,Premium,Two Year,2021-09-29,Switched to competitor,74.75,2396,93,1,Priya Joshi,India,Telangana,Male,1971-11-17,,,,
+54351-WZMAW,2020-07-29,Social Media,2020-10-27,Basic,Quarterly,2024-05-19,Service quality,10.99,449,86,1,Aditya Pandey,India,Madhya Pradesh,Female,1998-05-28,2023-09-16,N,86.0,1.0
+54707-VPXTM,2022-03-16,Advertisement,2022-04-15,Basic,Monthly,2023-02-17,No longer needed,14.92,1011,79,1,Rahul Rao,India,Uttar Pradesh,Male,2000-05-25,,,,
+55021-ADCSD,2023-11-22,Referral,2023-12-22,Standard,Monthly,2026-08-26,Product missing features,17.43,1475,61,1,Nisha Chauhan,India,Uttar Pradesh,Female,1972-02-12,,,,
+55045-GPLYR,2024-10-19,Referral,2026-10-01,Premium,Annual,,,37.22,2191,27,0,Saanvi Jain,India,Telangana,Male,1980-07-28,,,,
+55240-RBMYB,2024-03-28,Social Media,2026-10-01,Basic,Annual,,,8.44,573,16,0,Riya Chauhan,India,Delhi,Male,1968-02-06,,,,
+55268-XXGRP,2021-08-31,Referral,2026-10-01,Basic,Quarterly,,,8.68,607,22,0,Arjun Malhotra,India,Gujarat,Male,1971-05-13,,,,
+55384-DFGTT,2019-12-07,Organic,2026-10-01,Basic,Quarterly,,,6.83,465,25,0,Aditya Shah,India,Karnataka,Male,1985-02-04,,,,
+55748-SEZVN,2020-01-05,Social Media,2020-02-04,Standard,Monthly,2023-04-27,Switched to competitor,18.51,1404,60,1,Krishna Mehta,India,Uttar Pradesh,Female,1993-12-27,,,,
+55886-MGYSF,2022-07-12,Organic,2026-10-01,Basic,Quarterly,,,14.84,577,10,0,Ananya Nair,India,Bihar,Male,1974-01-26,,,,
+56016-XAXLF,2020-04-09,Social Media,2020-07-08,Standard,Quarterly,2022-08-28,Switched to competitor,17.84,399,70,1,Sai Reddy,India,Tamil Nadu,Female,1973-03-06,,,,
+56591-ENQMW,2020-12-10,Advertisement,2026-10-01,Standard,Quarterly,,,25.55,2083,47,0,Reyansh Chauhan,India,Kerala,Male,2005-03-17,2024-04-19,N,90.0,1.0
+56609-GQYAT,2019-03-03,Paid,2026-10-01,Basic,Annual,,,11.46,724,51,0,Kavya Patel,India,Telangana,Female,1975-04-20,,,,
+56680-QZLDB,2020-08-27,Refferal,2026-10-01,Premium,Annual,,,26.68,1307,8,0,Rahul Patel,India,Karnataka,Male,2003-06-05,,,,
+56766-XVCEC,2020-09-10,Social Media,2026-10-01,Basic,Quarterly,,,11.99,975,10,0,Ananya Singh,India,Madhya Pradesh,Female,1982-02-20,,,,
+56820-HBWDE,2022-07-07,Refferal,2026-10-01,Standard,Monthly,,,19.28,1107,11,0,Nisha Yadav,India,Rajasthan,Female,1969-06-28,2025-01-31,N,26.0,1.0
+57044-QGSMJ,2019-08-21,Advertisement,2026-10-01,Premium,Annual,,,55.99,1165,44,0,Nisha Mehta,India,Uttar Pradesh,Female,1977-05-21,,,,
+57179-BGFFP,2024-07-16,Social Media,2026-10-01,Standard,Two Year,,,22.68,1488,11,0,Keshav Pandey,India,Kerala,Male,1996-11-14,,,,
+57250-PAAMJ,2025-11-03,Social Media,2026-10-01,Basic,Quarterly,,,13.41,1405,5,0,Pooja Rao,India,West Bengal,Female,2004-02-05,,,,
+57491-FLKDW,2024-09-29,Referral,2026-10-01,Standard,Monthly,,,23.74,1364,52,0,Myra Rao,India,Uttar Pradesh,Male,1968-02-10,2023-03-05,Y,64.0,1.0
+57556-AUYXU,2019-08-22,Refferal,2026-10-01,Premium,Quarterly,,,73.61,3880,19,0,Aarav Das,India,Bihar,Female,1997-04-25,,,,
+57661-KQSLN,2019-06-24,Organic,2026-10-01,Standard,Quarterly,,,30.03,1439,53,0,Saanvi Rao,India,West Bengal,Female,1983-02-22,,,,
+57835-KJQZF,2020-06-01,Social Media,2026-10-01,Premium,Two Year,,,70.28,3650,6,0,Arjun Das,India,Maharashtra,Male,1994-05-26,,,,
+57886-SGYVP,2021-02-07,Social Media,2026-10-01,Standard,Quarterly,,,24.46,904,4,0,Vihaan Nair,India,Gujarat,Male,1980-05-11,,,,
+57958-RLACC,2023-04-22,Advertisement,2026-10-01,Standard,Quarterly,,,22.96,819,7,0,Riya Shah,India,Telangana,Male,1961-10-19,,,,
+59053-VERGT,2021-04-08,Refferal,2026-10-01,Standard,Two Year,,,28.73,718,39,0,Krishna Nair,India,Bihar,Female,1998-10-03,,,,
+59335-YNKCV,2019-02-09,Social Media,2026-10-01,Basic,Monthly,,,9.28,554,51,0,Reyansh Reddy,India,Rajasthan,Male,1982-04-03,2025-08-28,N,58.0,3.0
+59871-DTMLN,2023-01-15,Advertisement,2026-10-01,Premium,Annual,,,68.22,3928,19,0,Myra Gupta,India,West Bengal,Female,1998-12-22,2026-02-16,Y,48.0,1.0
+60040-ZQJZH,2022-11-14,Referral,2022-12-14,Premium,Monthly,2024-04-07,Service quality,28.81,576,92,1,Neha Sinha,India,Maharashtra,Male,1968-06-12,2025-07-31,N,81.0,2.0
+60150-WMWPM,2025-06-21,Paid,2026-10-01,Standard,Monthly,,,16.42,553,20,0,Priya Shah,India,Gujarat,Female,1971-01-09,2025-04-03,N,35.0,2.0
+60735-WZVXA,2023-04-16,Organic,2026-10-01,Premium,Annual,,,37.11,1593,30,0,Pooja Mishra,India,Kerala,Female,1986-11-28,,,,
+61263-TVCEN,2025-01-23,Refferal,2027-01-23,Premium,Two Year,,,72.31,3264,11,0,Krishna Patel,India,Delhi,Female,1971-05-15,,,,
+61713-XHALG,2023-01-30,Advertisement,2026-10-01,Premium,Monthly,,,44.27,1748,24,0,Rohan Das,India,West Bengal,Male,2003-02-20,,,,
+62087-PWEVT,2025-05-14,Referral,2025-06-13,Basic,Monthly,2026-08-01,Price too high,7.62,811,83,1,Arjun Rao,India,Gujarat,Male,1971-07-16,2026-03-17,N,96.0,1.0
+62135-KBUSX,2024-02-29,Referral,2026-10-01,Premium,Annual,,,48.69,2654,39,0,Diya Reddy,India,Maharashtra,Female,2003-11-04,2024-03-16,N,60.0,1.0
+62228-VTUHE,2025-06-30,Referral,2025-07-30,Standard,Monthly,2026-08-30,Billing issue,17.5,1292,90,1,Krishna Gupta,India,Bihar,Female,1962-10-28,2025-07-05,N,78.0,2.0
+62267-CVHQK,2025-08-11,Organic,2025-11-09,Basic,Quarterly,2026-08-07,Billing issue,12.99,654,98,1,Vihaan Yadav,India,Kerala,Male,1987-04-05,,,,
+62373-XBBAN,2025-08-12,Paid,2026-10-01,Standard,Monthly,,,23.68,1362,26,0,Kiara Jain,India,Maharashtra,Female,1997-04-02,,,,
+62434-NJMJX,2020-04-22,Social Media,2026-10-01,Premium,Two Year,,,49.97,1471,24,0,Aman Kumar,India,Madhya Pradesh,Male,1969-09-08,2026-07-22,Y,62.0,1.0
+62858-VTJJU,2020-04-16,Organic,2026-10-01,Basic,Monthly,,,7.08,739,48,0,Myra Joshi,India,Tamil Nadu,Female,1982-08-04,2025-12-14,Y,55.0,1.0
+63003-RNGEB,2020-09-15,Organic,2020-12-14,Basic,Quarterly,2022-04-19,Poor customer service,7.85,342,100,1,Kavya Joshi,India,Delhi,Female,1967-11-15,,,,
+63592-AEMLU,2019-11-01,Organic,2026-10-01,Standard,Monthly,,,25.48,851,12,0,Reyansh Sinha,India,West Bengal,Male,1993-01-08,,,,
+63623-UUDLL,2024-12-15,Organic,2026-10-01,Basic,Annual,,,12.26,755,45,0,Kiara Kumar,India,Rajasthan,Female,1984-01-02,2026-06-11,N,52.0,1.0
+63955-FRKGB,2021-12-05,Refferal,2026-10-01,Basic,Two Year,,,8.64,634,28,0,Keshav Chauhan,India,Uttar Pradesh,Female,2001-09-13,,,,
+64208-XDXNR,2022-08-28,Refferal,2022-09-27,Standard,Monthly,2022-11-20,Price too high,17.76,1486,95,1,Kiara Singh,India,Madhya Pradesh,Male,1991-07-25,,,,
+64335-HVPCS,2022-09-02,Organic,2026-10-01,Basic,Quarterly,,,9.68,957,51,0,Diya Patel,India,Maharashtra,Male,1974-09-02,,,,
+64704-EDRTZ,2025-01-09,Refferal,2026-10-01,Standard,Monthly,,,35.5,786,49,0,Aditya Chauhan,India,Bihar,Female,1988-07-13,,,,
+64734-GUCEU,2019-11-22,Organic,2026-10-01,Standard,Quarterly,,,24.54,1702,46,0,Krishna Malhotra,India,West Bengal,Female,1998-10-20,,,,
+65044-CKLWS,2024-05-31,Advertisement,2026-10-01,Premium,Annual,,,35.05,1836,23,0,Arjun Verma,India,Gujarat,Female,2001-03-04,2025-07-28,N,12.0,1.0
+65505-NPGPZ,2024-01-17,Advertisement,2026-10-01,Basic,Annual,,,6.86,419,8,0,Saanvi Singh,India,Tamil Nadu,Male,1988-09-07,,,,
+65820-CXGXT,2019-07-28,Social Media,2019-08-27,Basic,Monthly,2020-05-20,Service quality,8.76,988,65,1,Nisha Das,India,Delhi,Female,1978-10-07,,,,
+65925-QNKPG,2022-09-14,Referral,2026-10-01,Standard,Annual,,,15.86,929,33,0,Kiara Kumar,India,Kerala,Female,1960-09-26,,,,
+66318-HJBSZ,2019-06-22,Organic,2026-10-01,Standard,Annual,,,28.82,763,50,0,Neha Jain,India,Karnataka,Female,1980-01-06,,,,
+66697-USFQS,2022-08-02,Organic,2026-10-01,Standard,Annual,,,25.64,1237,20,0,Aditya Joshi,India,Gujarat,Male,1967-03-28,2026-09-15,N,85.0,2.0
+66725-PKQQU,2020-02-11,Social Media,2026-10-01,Premium,Monthly,,,36.54,1183,11,0,Riya Pandey,India,Rajasthan,Female,1988-05-28,2024-11-20,N,83.0,2.0
+66726-LRGUB,2024-05-28,Organic,2026-10-01,Basic,Monthly,,,14.53,1296,20,0,Myra Pandey,India,Bihar,Female,1984-03-16,,,,
+66733-XFGEC,2021-05-19,Social Media,2026-10-01,Basic,Monthly,,,8.81,811,20,0,Saanvi Verma,India,Gujarat,Male,1973-10-14,,,,
+67105-YYMRS,2022-05-19,Advertisement,2026-10-01,Premium,Two Year,,,75.35,1944,29,0,Nisha Gupta,India,Madhya Pradesh,Female,1978-10-07,,,,
+67199-SVKJN,2022-07-09,Advertisement,2026-10-01,Standard,Annual,,,19.18,990,44,0,Diya Das,India,Kerala,Female,1975-05-03,2024-01-27,N,27.0,1.0
+67235-RUNZR,2021-10-14,Refferal,2026-10-01,Premium,Annual,,,37.11,1394,34,0,Ananya Mishra,India,Uttar Pradesh,Male,1974-12-11,,,,
+67320-SYDER,2023-11-12,Refferal,2026-10-01,Standard,Two Year,,,18.68,935,35,0,Keshav Rao,India,Uttar Pradesh,Male,2005-06-19,2023-11-16,N,69.0,1.0
+67412-DETLL,2019-09-21,Advertisement,2026-10-01,Standard,Annual,,,35.03,1688,27,0,Kavya Nair,India,West Bengal,Female,1980-10-04,,,,
+67557-UFFZU,2021-03-28,Advertisement,2026-10-01,Premium,Monthly,,,38.49,1934,24,0,Myra Mehta,India,Karnataka,Female,2003-10-15,2025-06-30,N,63.0,2.0
+67617-MVPMJ,2022-05-06,Referral,2026-10-01,Basic,Quarterly,,,6.5,485,2,0,Raghav Nair,India,West Bengal,Male,1964-08-14,,,,
+67690-MQKMG,2019-08-05,Social Media,2019-11-03,Premium,Quarterly,2023-01-24,Moved to another location,27.33,1503,64,1,Aarohi Mishra,India,Gujarat,Male,1967-05-16,2026-04-23,N,70.0,1.0
+67803-DGXMA,2020-04-09,Advertisement,2026-10-01,Standard,Monthly,,,32.13,1504,46,0,Kiara Sharma,India,Telangana,Male,2005-03-10,,,,
+67842-ZEHUT,2022-06-05,Advertisement,2022-07-05,Standard,Monthly,2024-01-30,Poor customer service,27.84,957,89,1,Keshav Das,India,Telangana,Female,1977-06-05,,,,
+68121-BWWQN,2024-01-20,Paid,2026-10-01,Basic,Annual,,,9.42,695,33,0,Reyansh Das,India,Gujarat,Male,1988-10-21,2025-11-07,N,8.0,1.0
+68172-KEAWU,2025-03-08,Paid,2025-04-07,Basic,Monthly,2025-10-21,Price too high,10.09,403,57,1,Aman Nair,India,Karnataka,Female,1964-11-18,2025-05-02,N,90.0,3.0
+68214-MHXKT,2020-11-27,Advertisement,2021-11-27,Premium,Annual,2021-09-15,Service quality,35.05,2310,90,1,Krishna Chauhan,India,West Bengal,Male,1981-12-23,,,,
+68221-SHHUB,2023-02-22,Advertisement,2023-03-24,Basic,Monthly,2026-07-25,Switched to competitor,11.42,862,97,1,Ira Jain,India,Gujarat,Male,1964-09-07,,,,
+68270-AABKN,2020-01-12,Advertisement,2026-10-01,Basic,Quarterly,,,14.93,920,39,0,Kabir Jain,India,Telangana,Female,1982-04-24,2025-07-28,N,63.0,3.0
+68435-WPYZS,2024-07-07,Refferal,2026-10-01,Premium,Quarterly,,,46.41,1378,7,0,Raghav Joshi,India,Uttar Pradesh,Male,1971-08-17,,,,
+68563-QUTKB,2019-11-18,Social Media,2026-10-01,Standard,Two Year,,,14.23,595,54,0,Rohan Chauhan,India,Delhi,Male,1996-07-22,,,,
+68863-SQUEL,2023-10-17,Organic,2023-11-16,Premium,Monthly,2025-05-31,Moved to another location,49.53,2439,88,1,Kabir Das,India,West Bengal,Female,1962-02-25,,,,
+68969-KHDLY,2025-07-03,Advertisement,2026-10-01,Standard,Monthly,,,23.15,1165,33,0,Diya Chauhan,India,Telangana,Male,1999-10-10,,,,
+69027-VCMZK,2020-12-25,Paid,2021-01-24,Standard,Monthly,2024-10-05,Product missing features,23.02,1345,95,1,Rahul Das,India,Bihar,Female,1994-07-17,2024-01-09,N,45.0,1.0
+69148-CCTVP,2020-02-29,Referral,2020-03-30,Standard,Monthly,2020-11-06,Moved to another location,28.09,1120,90,1,Aadhya Pandey,India,West Bengal,Female,2002-02-14,,,,
+69497-DWQZG,2025-12-05,Organic,2026-10-01,Standard,Monthly,,,26.4,816,6,0,Neha Gupta,India,Telangana,Male,1986-03-14,,,,
+69840-WRYLQ,2023-06-08,Paid,2023-07-08,Basic,Monthly,2026-07-26,Billing issue,14.62,529,81,1,Krishna Das,India,Rajasthan,Male,1965-03-11,,,,
+70092-ZHCWC,2022-10-18,Social Media,2022-11-17,Standard,Monthly,2026-08-29,Product missing features,14.84,1290,75,1,Raghav Gupta,India,Gujarat,Male,1969-07-28,,,,
+70163-ULRYD,2025-06-27,Refferal,2026-10-01,Basic,Annual,,,7.03,760,39,0,Kiara Pandey,India,Gujarat,Male,1993-12-02,2024-03-19,N,38.0,1.0
+70479-FLLND,2020-01-23,Paid,2026-10-01,Standard,Monthly,,,18.79,755,39,0,Ananya Malhotra,India,Bihar,Female,1984-07-25,,,,
+70678-PHQKS,2019-02-12,Organic,2026-10-01,Basic,Two Year,,,14.6,431,15,0,Aadhya Malhotra,India,Gujarat,Female,2001-02-27,,,,
+71031-TKRWR,2023-11-13,Social Media,2026-10-01,Standard,Two Year,,,15.14,561,12,0,Ishaan Kumar,India,Tamil Nadu,Male,1988-04-11,,,,
+71091-XQDKR,2025-01-10,Paid,2026-10-01,Basic,Annual,,,13.39,639,35,0,Neha Nair,India,Tamil Nadu,Female,2004-06-26,2025-12-20,N,42.0,1.0
+71271-GEGTK,2024-02-23,Advertisement,2026-10-01,Premium,Quarterly,,,60.1,1292,29,0,Neha Mishra,India,Telangana,Male,1969-09-14,,,,
+71313-ZMSMG,2023-01-20,Referral,2026-10-01,Premium,Two Year,,,36.66,2652,2,0,Reyansh Das,India,Maharashtra,Male,1990-03-21,2026-08-09,Y,86.0,2.0
+71316-DLTXU,2024-08-25,Paid,2026-10-01,Premium,Monthly,,,39.7,1154,19,0,Nisha Singh,India,Tamil Nadu,Female,1983-08-21,,,,
+71467-WMDEA,2025-12-02,Advertisement,2026-01-01,Standard,Monthly,2026-09-25,Product missing features,23.51,1515,75,1,Keshav Kumar,India,Maharashtra,Female,1986-04-24,,,,
+71592-YKVHL,2024-01-16,Refferal,2026-10-01,Standard,Monthly,,,25.32,1347,14,0,Rahul Sinha,India,Karnataka,Male,1972-03-25,2025-09-30,N,15.0,1.0
+72211-UJKPQ,2022-02-15,Referral,2026-10-01,Basic,Monthly,,,13.35,767,25,0,Rahul Patel,India,Telangana,Female,1983-06-15,2023-03-20,N,95.0,1.0
+72295-ESXRJ,2025-01-23,Paid,2026-10-01,Standard,Quarterly,,,35.18,859,2,0,Reyansh Sharma,India,Madhya Pradesh,Female,1972-03-02,2025-02-05,Y,25.0,1.0
+72910-XRQAG,2024-11-02,Advertisement,2026-10-01,Premium,Monthly,,,31.11,1682,43,0,Aadhya Joshi,India,Uttar Pradesh,Female,1987-07-28,2025-09-24,Y,75.0,2.0
+72932-JXGYL,2019-06-14,Social Media,2021-06-13,Premium,Two Year,2020-05-21,No longer needed,35.96,1647,63,1,Vivaan Reddy,India,Madhya Pradesh,Female,1961-12-18,,,,
+73082-VHBJU,2022-04-21,Paid,2026-10-01,Basic,Monthly,,,15.22,1016,47,0,Pooja Das,India,Gujarat,Female,1992-08-19,,,,
+73409-LSJBW,2020-10-17,Organic,2026-10-01,Premium,Monthly,,,56.37,1215,3,0,Vivaan Patel,India,Bihar,Female,1977-11-26,,,,
+73615-BAFVE,2020-09-22,Social Media,2026-10-01,Premium,Monthly,,,32.49,1954,25,0,Ira Rao,India,Madhya Pradesh,Female,1973-10-25,,,,
+73694-NZEHT,2023-10-07,Organic,2026-10-01,Standard,Annual,,,14.78,639,49,0,Nisha Mishra,India,Madhya Pradesh,Male,1968-12-05,,,,
+73991-DHKTH,2021-06-28,Organic,2021-07-28,Basic,Monthly,2023-03-27,No longer needed,14.51,1284,86,1,Rahul Reddy,India,West Bengal,Male,1984-07-11,2024-03-28,N,77.0,1.0
+74523-EKBLS,2021-12-28,Refferal,2026-10-01,Basic,Annual,,,10.52,560,36,0,Pooja Singh,India,West Bengal,Male,1969-08-04,,,,
+74530-ZXGFP,2024-10-23,Referral,2026-10-01,Standard,Annual,,,13.26,591,38,0,Ira Reddy,India,Maharashtra,Female,1990-09-02,2024-06-03,N,6.0,1.0
+74656-JFGQX,2024-10-10,Advertisement,2026-10-01,Basic,Annual,,,13.2,724,21,0,Sneha Chauhan,India,Gujarat,Male,1966-12-02,,,,
+74744-BNURN,2023-07-01,Refferal,2026-10-01,Standard,Annual,,,27.93,1377,13,0,Aadhya Rao,India,Gujarat,Female,1971-06-23,2024-05-05,Y,96.0,1.0
+74847-ZXSXL,2022-06-20,Social Media,2026-10-01,Basic,Quarterly,,,13.01,992,8,0,Rohan Das,India,Tamil Nadu,Male,1976-11-12,,,,
+74969-ECWLR,2021-04-28,Referral,2026-10-01,Standard,Annual,,,18.35,939,51,0,Arjun Sinha,India,Telangana,Male,1963-06-08,,,,
+75065-YAWUE,2025-02-03,Referral,2026-10-01,Standard,Annual,,,16.08,520,18,0,Riya Malhotra,India,Kerala,Female,1962-01-10,,,,
+75290-KHKHK,2023-04-27,Refferal,2026-10-01,Premium,Monthly,,,41.91,1809,5,0,Kavya Sinha,India,Madhya Pradesh,Male,1972-04-25,,,,
+75543-KVAAJ,2021-03-21,Organic,2021-04-20,Basic,Monthly,2024-05-29,No longer needed,8.61,248,66,1,Reyansh Sinha,India,Tamil Nadu,Male,1969-05-15,,,,
+75740-SFTLN,2023-01-12,Social Media,2026-10-01,Premium,Quarterly,,,69.21,4691,44,0,Keshav Singh,India,Karnataka,Male,1997-01-21,,,,
+76450-ZFANC,2019-03-22,Advertisement,2019-04-21,Basic,Monthly,2020-09-19,Billing issue,10.43,449,99,1,Rahul Chauhan,India,Kerala,Male,1984-11-09,,,,
+76766-XKVCG,2021-02-27,Paid,2026-10-01,Basic,Monthly,,,6.95,885,50,0,Rahul Reddy,India,Kerala,Female,1961-09-27,2023-01-01,N,11.0,1.0
+77213-RXAPQ,2024-08-11,Refferal,2026-10-01,Basic,Two Year,,,9.72,832,51,0,Arjun Mehta,India,Madhya Pradesh,Male,1995-11-26,2023-08-05,N,92.0,1.0
+77429-MTRAD,2023-07-07,Refferal,2026-10-01,Basic,Quarterly,,,13.26,644,39,0,Aditya Gupta,India,Delhi,Female,2003-10-07,,,,
+77552-CNYBU,2023-12-22,Referral,2024-01-21,Basic,Monthly,2025-08-06,Moved to another location,12.07,1166,79,1,Vivaan Shah,India,Telangana,Female,1989-11-01,2024-11-29,Y,71.0,1.0
+77820-SBFGB,2021-12-29,Organic,2026-10-01,Standard,Annual,,,14.63,1118,35,0,Raghav Reddy,India,Karnataka,Male,1984-05-15,2024-04-04,N,78.0,1.0
+78189-WWGUG,2024-08-18,Organic,2024-09-17,Standard,Monthly,2026-07-01,Price too high,14.87,1151,100,1,Aman Joshi,India,Tamil Nadu,Male,1987-02-08,,,,
+78371-MQNBS,2023-12-31,Organic,2026-10-01,Premium,Monthly,,,62.38,2810,27,0,Diya Reddy,India,Rajasthan,Male,2005-07-12,,,,
+78373-YUABG,2025-01-06,Social Media,2025-02-05,Standard,Monthly,2026-03-28,Poor customer service,14.91,897,89,1,Raghav Rao,India,Maharashtra,Male,1985-09-10,,,,
+78505-GXQUG,2021-07-30,Refferal,2026-10-01,Basic,Quarterly,,,7.63,389,8,0,Aarohi Gupta,India,Bihar,Female,1970-06-24,,,,
+78575-HFSPE,2021-10-16,Referral,2026-10-01,Premium,Monthly,,,31.8,1987,41,0,Arjun Jain,India,Maharashtra,Male,1978-01-21,,,,
+79069-QXEYK,2021-12-31,Refferal,2026-10-01,Basic,Annual,,,15.73,1508,16,0,Ishaan Sharma,India,Bihar,Female,1990-10-05,,,,
+79603-DKHSF,2023-12-28,Refferal,2026-10-01,Basic,Annual,,,14.16,947,28,0,Reyansh Shah,India,Telangana,Male,2005-02-01,2024-07-24,N,94.0,1.0
+79657-CJEWJ,2025-03-08,Paid,2027-03-08,Premium,Two Year,,,38.11,2409,4,0,Aadhya Gupta,India,Gujarat,Male,1967-01-12,,,,
+79953-DGVSD,2025-02-25,Paid,2026-10-01,Premium,Quarterly,,,47.15,1605,16,0,Rohan Patel,India,Kerala,Female,1988-10-01,,,,
+80309-YLTMK,2025-12-11,Referral,2026-10-01,Standard,Quarterly,,,24.46,475,31,0,Ishaan Jain,India,Rajasthan,Male,1982-04-06,,,,
+80575-RWSBS,2022-06-20,Social Media,2023-06-20,Standard,Annual,2023-04-27,Switched to competitor,17.03,1107,65,1,Sneha Pandey,India,Kerala,Male,1963-04-03,,,,
+80634-LRAGJ,2024-04-22,Referral,2026-10-01,Premium,Monthly,,,59.92,1365,26,0,Arjun Kumar,India,Uttar Pradesh,Male,1965-12-09,,,,
+80909-NMLLW,2023-12-20,Social Media,2026-10-01,Standard,Quarterly,,,32.91,2047,37,0,Saanvi Nair,India,Bihar,Male,1999-11-20,,,,
+81038-UFVFE,2023-02-03,Social Media,2026-10-01,Standard,Monthly,,,19.78,629,12,0,Raghav Verma,India,Uttar Pradesh,Male,2000-02-21,2026-04-29,N,88.0,1.0
+81077-NFPSJ,2023-09-07,Organic,2023-10-07,Basic,Monthly,2026-08-03,Moved to another location,15.65,738,60,1,Sneha Patel,India,Rajasthan,Male,1987-01-15,2024-10-05,Y,41.0,2.0
+81135-WYJVM,2022-06-13,Paid,2026-10-01,Premium,Annual,,,46.73,689,27,0,Krishna Rao,India,Telangana,Female,1960-06-26,2025-06-03,N,17.0,1.0
+81356-EWQJD,2021-04-26,Refferal,2026-10-01,Basic,Monthly,,,6.19,369,50,0,Vivaan Yadav,India,Uttar Pradesh,Male,1978-01-13,2023-08-21,Y,59.0,1.0
+81623-WUSHA,2023-03-13,Organic,2026-10-01,Premium,Annual,,,71.66,3541,2,0,Myra Mehta,India,Rajasthan,Male,1991-04-12,2024-06-12,Y,38.0,2.0
+81738-TVVNA,2023-04-04,Social Media,2026-10-01,Basic,Monthly,,,7.37,406,9,0,Vivaan Mehta,India,Kerala,Male,1976-01-04,,,,
+82734-CNHBB,2023-01-11,Advertisement,2026-10-01,Premium,Monthly,,,71.33,2103,2,0,Ananya Pandey,India,Uttar Pradesh,Female,1993-10-17,,,,
+83018-LWDEQ,2021-07-08,Organic,2026-10-01,Basic,Monthly,,,11.58,689,15,0,Aadhya Yadav,India,Bihar,Female,1972-02-14,2024-09-10,N,7.0,2.0
+83074-XVEVA,2021-01-10,Organic,2026-10-01,Premium,Annual,,,26.26,558,21,0,Riya Chauhan,India,Tamil Nadu,Female,1964-09-27,2025-01-15,N,100.0,1.0
+83386-TSNGR,2022-05-07,Paid,2026-10-01,Premium,Quarterly,,,35.94,2216,11,0,Aarav Jain,India,Madhya Pradesh,Female,1987-03-15,2025-12-01,N,39.0,2.0
+83750-ZVGZM,2022-04-22,Paid,2026-10-01,Basic,Monthly,,,8.82,712,4,0,Ira Mehta,India,Telangana,Male,1989-11-05,,,,
+83798-DMGET,2020-01-26,Referral,2020-02-25,Basic,Monthly,2021-08-12,Product missing features,9.23,662,70,1,Raghav Nair,India,Uttar Pradesh,Male,1971-10-28,2024-08-11,N,62.0,1.0
+83948-YWVZP,2022-09-20,Paid,2026-10-01,Premium,Monthly,,,32.51,1120,52,0,Krishna Malhotra,India,Delhi,Female,1962-02-02,2025-04-23,N,48.0,1.0
+83989-WLYLL,2022-12-23,Referral,2026-10-01,Basic,Monthly,,,12.85,1289,50,0,Priya Gupta,India,Tamil Nadu,Male,1983-03-19,,,,
+84104-DSXWX,2024-03-18,Refferal,2026-10-01,Standard,Two Year,,,26.69,1897,29,0,Myra Verma,India,Rajasthan,Male,1971-12-17,,,,
+84211-CAFLU,2023-05-27,Paid,2026-10-01,Basic,Quarterly,,,7.91,316,53,0,Vivaan Das,India,Gujarat,Female,1989-12-26,2023-11-10,N,27.0,1.0
+84613-HBEXD,2019-02-09,Paid,2026-10-01,Standard,Two Year,,,26.4,1240,16,0,Sai Jain,India,Maharashtra,Female,1987-06-01,2024-03-03,N,37.0,1.0
+84763-YCQKU,2023-10-15,Paid,2026-10-01,Standard,Annual,,,30.7,794,50,0,Ishaan Mehta,India,Telangana,Male,1967-12-06,,,,
+84879-KSUCN,2019-11-26,Advertisement,2026-10-01,Premium,Annual,,,40.49,979,36,0,Vivaan Patel,India,Bihar,Female,2003-05-13,,,,
+85478-MVQHF,2022-08-24,Organic,2022-09-23,Basic,Monthly,2026-01-25,Service quality,13.97,716,90,1,Myra Sinha,India,Madhya Pradesh,Female,1988-04-25,2024-06-23,N,96.0,1.0
+85651-UXSCT,2019-05-25,Advertisement,2026-10-01,Standard,Two Year,,,30.03,1256,21,0,Aarohi Reddy,India,Maharashtra,Male,1960-04-02,,,,
+85654-BALQG,2025-08-12,Organic,2027-08-12,Standard,Two Year,,,22.77,770,42,0,Priya Joshi,India,Karnataka,Female,2005-05-23,,,,
+85896-PGLXD,2024-07-02,Paid,2026-10-01,Standard,Monthly,,,29.73,1618,5,0,Ishaan Gupta,India,Telangana,Male,1962-11-13,,,,
+86305-FKHMB,2022-12-11,Social Media,2026-10-01,Basic,Monthly,,,14.91,1458,35,0,Priya Sinha,India,Rajasthan,Female,1997-12-01,2025-04-16,N,23.0,1.0
+86314-GHZRK,2023-06-19,Social Media,2026-10-01,Standard,Monthly,,,16.86,716,7,0,Riya Reddy,India,Uttar Pradesh,Female,1965-02-21,,,,
+86616-EMCPW,2019-10-18,Advertisement,2026-10-01,Basic,Two Year,,,12.55,712,54,0,Riya Jain,India,Telangana,Female,1993-10-23,,,,
+86981-TYDHR,2023-07-19,Refferal,2026-10-01,Basic,Annual,,,12.26,729,1,0,Sai Joshi,India,Madhya Pradesh,Male,1990-11-10,2026-04-16,Y,82.0,1.0
+87202-LAMJM,2020-03-14,Organic,2026-10-01,Basic,Quarterly,,,13.91,1124,26,0,Arjun Rao,India,Delhi,Female,1982-10-19,,,,
+87416-NECEJ,2020-07-18,Referral,2026-10-01,Basic,Monthly,,,15.69,928,1,0,Ira Shah,India,Kerala,Female,2005-08-25,2025-04-05,Y,78.0,1.0
+87672-UWXQC,2025-06-23,Paid,2027-06-23,Standard,Two Year,,,21.26,1439,13,0,Krishna Gupta,India,Telangana,Male,1969-07-28,2025-02-22,N,76.0,1.0
+87779-SPNVF,2021-09-12,Advertisement,2026-10-01,Basic,Monthly,,,6.33,364,46,0,Rahul Singh,India,Bihar,Male,1977-04-24,2024-03-16,N,57.0,1.0
+87807-UVVUS,2025-02-21,Refferal,2025-03-23,Premium,Monthly,2026-08-05,Price too high,52.82,1937,98,1,Nisha Reddy,India,West Bengal,Male,1993-08-17,2023-09-20,N,66.0,1.0
+87831-CUDLC,2023-05-24,Social Media,2026-10-01,Basic,Monthly,,,12.29,1140,27,0,Priya Joshi,India,Delhi,Female,1991-08-01,,,,
+88054-XSLRQ,2025-01-21,Paid,2025-02-20,Basic,Monthly,2026-07-22,Billing issue,8.37,514,64,1,Reyansh Kumar,India,Rajasthan,Male,1963-02-11,,,,
+88092-RXJCH,2019-12-27,Social Media,2026-10-01,Basic,Quarterly,,,10.57,420,2,0,Nisha Singh,India,Telangana,Female,1974-07-17,,,,
+88142-CDGEB,2019-11-09,Referral,2026-10-01,Basic,Monthly,,,14.89,531,29,0,Neha Sharma,India,Bihar,Male,1985-02-16,,,,
+88235-AEPQA,2021-02-28,Organic,2026-10-01,Standard,Quarterly,,,24.9,1008,14,0,Kiara Sharma,India,Bihar,Female,1990-10-20,2024-10-25,Y,55.0,1.0
+88313-XJNGD,2025-04-01,Social Media,2026-10-01,Standard,Annual,,,13.31,753,30,0,Aditya Gupta,India,Gujarat,Female,1981-02-15,,,,
+88455-LXURP,2019-05-01,Advertisement,2026-10-01,Premium,Annual,,,46.69,3426,29,0,Pooja Singh,India,Delhi,Female,1964-09-18,,,,
+88498-USTKS,2025-03-18,Referral,2026-10-01,Basic,Monthly,,,6.7,159,15,0,Krishna Mishra,India,Bihar,Female,1993-08-04,2024-05-12,N,51.0,1.0
+88538-ECHYH,2021-04-02,Refferal,2021-05-02,Standard,Monthly,2025-03-25,Billing issue,22.15,951,91,1,Saanvi Malhotra,India,West Bengal,Female,1981-08-11,2026-01-02,N,96.0,1.0
+88545-TFMXC,2020-06-17,Organic,2026-10-01,Basic,Annual,,,9.6,880,34,0,Kabir Singh,India,Delhi,Female,1991-06-11,,,,
+88897-LHRQE,2024-06-26,Organic,2026-10-01,Premium,Monthly,,,58.08,2488,24,0,Aditya Shah,India,Maharashtra,Male,1970-11-10,2024-10-21,N,66.0,1.0
+88922-MFPGP,2021-07-07,Advertisement,2026-10-01,Basic,Monthly,,,7.46,823,15,0,Vihaan Rao,India,Maharashtra,Male,1966-09-10,,,,
+88939-WWSZF,2023-07-26,Referral,2026-10-01,Standard,Annual,,,32.94,811,33,0,Saanvi Malhotra,India,Uttar Pradesh,Female,1980-05-24,,,,
+89614-JTKFR,2020-08-02,Organic,2026-10-01,Standard,Monthly,,,33.86,2580,16,0,Pooja Sinha,India,Tamil Nadu,Female,2003-09-05,2025-03-18,N,65.0,1.0
+89891-EWKNS,2023-01-29,Advertisement,2023-02-28,Basic,Monthly,2023-06-05,Poor customer service,10.17,195,57,1,Vivaan Rao,India,Karnataka,Male,1981-07-16,,,,
+90045-HASJT,2020-07-10,Advertisement,2026-10-01,Standard,Quarterly,,,33.51,1816,22,0,Aman Das,India,West Bengal,Male,1971-04-11,2025-06-07,N,92.0,2.0
+90135-CCUQK,2025-10-24,Social Media,2027-10-24,Basic,Two Year,,,6.26,706,20,0,Raghav Patel,India,Rajasthan,Female,1968-04-09,,,,
+90474-MSJZU,2025-04-06,Referral,2026-10-01,Premium,Annual,,,66.27,1267,13,0,Nisha Chauhan,India,Maharashtra,Male,1982-11-05,2023-02-04,N,91.0,1.0
+90475-PDJZS,2024-11-26,Organic,2025-11-26,Basic,Annual,2026-09-19,Poor customer service,11.07,882,68,1,Kabir Chauhan,India,Rajasthan,Male,1998-12-03,,,,
+90480-VCXTK,2019-05-01,Refferal,2019-05-31,Premium,Monthly,2022-12-26,No longer needed,60.93,2228,67,1,Vihaan Verma,India,Rajasthan,Male,1963-10-09,2024-10-26,N,98.0,2.0
+90789-WRQGR,2019-05-10,Advertisement,2026-10-01,Standard,Annual,,,17.38,806,27,0,Sai Rao,India,West Bengal,Male,1963-10-16,,,,
+90812-GMYGH,2022-01-25,Referral,2026-10-01,Basic,Quarterly,,,11.42,557,26,0,Nisha Shah,India,Uttar Pradesh,Female,2005-04-23,,,,
+90912-RFKXD,2025-02-16,Paid,2026-10-01,Standard,Monthly,,,23.9,1563,35,0,Aman Kumar,India,Kerala,Male,1962-10-21,,,,
+91084-HTPBB,2024-11-17,Advertisement,2026-10-01,Basic,Quarterly,,,7.49,228,15,0,Vihaan Mishra,India,Bihar,Female,1987-07-28,,,,
+91272-UVQLL,2019-12-10,Organic,2026-10-01,Basic,Monthly,,,15.06,628,10,0,Raghav Gupta,India,Maharashtra,Female,1989-11-08,2026-05-23,N,28.0,1.0
+91735-JNDHY,2025-06-07,Advertisement,2026-10-01,Standard,Annual,,,29.75,1801,22,0,Arjun Sharma,India,Rajasthan,Female,1969-08-11,2025-09-11,Y,58.0,1.0
+91852-XBWDS,2024-05-26,Advertisement,2026-10-01,Standard,Annual,,,15.78,1005,33,0,Ishaan Singh,India,Gujarat,Female,1963-02-02,,,,
+91982-XCTRX,2019-01-06,Refferal,2019-02-05,Basic,Monthly,2021-06-01,Billing issue,10.19,925,79,1,Nisha Patel,India,Gujarat,Male,1976-04-08,,,,
+92083-AVURB,2022-10-18,Referral,2026-10-01,Premium,Monthly,,,32.95,1058,29,0,Kavya Sharma,India,Karnataka,Male,1977-03-21,2026-09-22,Y,85.0,1.0
+92387-PEPBN,2025-04-03,Paid,2026-10-01,Premium,Annual,,,35.94,569,33,0,Vihaan Gupta,India,Tamil Nadu,Female,1999-11-20,,,,
+92412-MQZJS,2021-02-09,Organic,2026-10-01,Premium,Monthly,,,58.42,3608,28,0,Arjun Sharma,India,Kerala,Female,1979-02-05,2023-05-11,N,98.0,1.0
+92794-VPZWN,2021-11-20,Social Media,2026-10-01,Standard,Monthly,,,23.54,1702,20,0,Neha Das,India,Delhi,Male,1966-02-10,,,,
+92906-HYLZJ,2019-08-06,Refferal,2019-11-04,Basic,Quarterly,2021-04-04,Switched to competitor,15.78,1239,70,1,Priya Gupta,India,Madhya Pradesh,Male,1999-09-13,,,,
+93067-EUMUU,2022-01-30,Referral,2026-10-01,Standard,Monthly,,,14.7,617,3,0,Myra Patel,India,Gujarat,Female,2000-06-05,,,,
+93093-ZRLSJ,2020-10-25,Organic,2026-10-01,Basic,Annual,,,9.45,436,19,0,Sneha Verma,India,Tamil Nadu,Male,1968-07-17,,,,
+93772-ZVCRQ,2019-05-14,Organic,2026-10-01,Standard,Annual,,,17.86,779,36,0,Kavya Chauhan,India,Rajasthan,Male,1991-12-25,,,,
+93787-YXARC,2019-11-15,Refferal,2026-10-01,Standard,Monthly,,,33.86,1669,23,0,Riya Yadav,India,Tamil Nadu,Female,1976-10-18,2026-05-24,N,26.0,1.0
+94016-YMGJQ,2021-03-23,Paid,2026-10-01,Basic,Annual,,,12.26,1014,50,0,Riya Sharma,India,Kerala,Male,1970-05-04,,,,
+94179-XUDHJ,2025-04-10,Advertisement,2025-05-10,Premium,Monthly,2026-06-26,Price too high,35.76,1365,76,1,Keshav Gupta,India,Bihar,Male,1993-10-22,,,,
+94264-BPYKJ,2020-02-02,Social Media,2020-03-03,Basic,Monthly,2023-11-08,No longer needed,9.84,714,91,1,Vivaan Patel,India,Kerala,Male,1999-05-17,2024-07-18,N,93.0,1.0
+94384-PGYVP,2019-07-26,Referral,2019-08-25,Basic,Monthly,2022-12-27,Billing issue,10.25,687,94,1,Kiara Joshi,India,Delhi,Male,1979-10-11,2026-09-10,N,9.0,1.0
+94426-SALCN,2020-03-11,Referral,2026-10-01,Standard,Quarterly,,,30.88,1488,13,0,Pooja Malhotra,India,West Bengal,Male,1986-02-17,2023-10-05,Y,96.0,1.0
+94557-QGPFM,2022-02-19,Organic,2026-10-01,Standard,Quarterly,,,35.51,935,53,0,Saanvi Kumar,India,West Bengal,Female,1983-03-16,2025-09-07,N,94.0,1.0
+94848-TTSHK,2025-10-10,Advertisement,2026-10-01,Premium,Quarterly,,,26.53,1674,44,0,Kabir Singh,India,Bihar,Female,2001-12-01,2024-05-14,N,79.0,1.0
+95179-DUGUR,2023-02-14,Paid,2026-10-01,Standard,Quarterly,,,33.35,2120,37,0,Neha Mehta,India,Madhya Pradesh,Female,1991-07-24,,,,
+95209-FPKPT,2019-01-27,Social Media,2019-02-26,Basic,Monthly,2023-01-08,Service quality,14.55,1229,90,1,Pooja Verma,India,Bihar,Female,1988-07-01,,,,
+95476-FKLJL,2025-08-30,Paid,2025-11-28,Basic,Quarterly,2026-01-09,No longer needed,11.18,427,62,1,Pooja Pandey,India,Bihar,Male,1963-11-13,,,,
+95660-HECQB,2019-06-30,Social Media,2026-10-01,Basic,Monthly,,,10.35,689,49,0,Aadhya Pandey,India,Karnataka,Male,2000-09-09,2023-06-14,N,98.0,1.0
+95663-UNCFC,2022-09-03,Referral,2026-10-01,Premium,Annual,,,35.48,1984,33,0,Kabir Nair,India,Gujarat,Male,1969-02-02,2026-02-16,N,95.0,1.0
+95841-KJWDG,2025-07-15,Organic,2027-07-15,Standard,Two Year,2026-08-08,Service quality,19.04,708,67,1,Kabir Nair,India,Tamil Nadu,Male,1993-10-17,,,,
+95856-JGSUK,2023-06-19,Paid,2026-10-01,Standard,Annual,,,28.15,1761,29,0,Kiara Shah,India,Tamil Nadu,Female,1971-06-18,,,,
+96003-RLJVV,2021-06-27,Advertisement,2026-10-01,Basic,Monthly,,,12.33,956,36,0,Aarohi Reddy,India,Gujarat,Female,1995-10-20,,,,
+96259-CXMVT,2021-02-19,Paid,2026-10-01,Standard,Monthly,,,22.52,1860,54,0,Reyansh Singh,India,Rajasthan,Male,1976-10-07,,,,
+96285-SDSJS,2022-07-20,Referral,2026-10-01,Basic,Annual,,,15.33,727,21,0,Aditya Sinha,India,Rajasthan,Male,1995-10-07,2025-11-19,N,87.0,1.0
+96742-LVGSM,2023-12-08,Paid,2026-10-01,Standard,Monthly,,,26.28,1682,4,0,Kavya Gupta,India,Tamil Nadu,Male,1981-02-05,2026-05-15,N,91.0,2.0
+96839-JPYGA,2024-09-21,Organic,2026-10-01,Standard,Annual,,,33.45,2037,19,0,Riya Sinha,India,Madhya Pradesh,Female,2003-10-07,,,,
+97276-ZSLHZ,2023-06-10,Referral,2026-10-01,Basic,Quarterly,,,12.85,1170,4,0,Aadhya Sinha,India,Gujarat,Male,1975-07-19,,,,
+97354-NVGJT,2019-11-12,Referral,2026-10-01,Standard,Quarterly,,,14.27,680,11,0,Saanvi Jain,India,Uttar Pradesh,Male,1961-06-26,,,,
+97601-ZUBJL,2022-07-20,Organic,2022-08-19,Standard,Monthly,2026-08-06,Switched to competitor,21.49,1059,97,1,Sai Yadav,India,Delhi,Male,2005-09-10,,,,
+97752-KCHPE,2022-07-19,Referral,2026-10-01,Basic,Monthly,,,8.19,1092,18,0,Reyansh Singh,India,Karnataka,Female,1987-02-08,,,,
+97825-LEHBP,2023-12-16,Refferal,2026-10-01,Standard,Monthly,,,15.84,867,3,0,Rahul Joshi,India,Bihar,Male,1964-03-23,2026-05-10,N,77.0,1.0
+98504-TQYVR,2024-10-13,Paid,2026-10-01,Standard,Quarterly,,,28.49,522,42,0,Ira Mehta,India,Gujarat,Male,1972-11-26,,,,
+98888-AEBPA,2020-02-01,Paid,2026-10-01,Basic,Monthly,,,6.23,447,22,0,Sneha Mishra,India,Kerala,Male,2004-07-03,2025-05-06,N,57.0,1.0
+99018-GCDSV,2022-05-09,Organic,2026-10-01,Basic,Two Year,,,6.3,879,29,0,Aditya Mishra,India,Kerala,Male,1973-06-05,,,,
+99098-ZUJKQ,2021-07-15,Social Media,2026-10-01,Standard,Monthly,,,34.37,1226,17,0,Kiara Mehta,India,Tamil Nadu,Male,2005-02-03,2025-01-18,N,90.0,1.0
+99506-HYSXM,2019-04-13,Referral,2026-10-01,Basic,Quarterly,,,13.12,499,30,0,Vihaan Yadav,India,Telangana,Female,1965-12-17,,,,
+99806-DSDCN,2020-10-07,Advertisement,2026-10-01,Standard,Monthly,,,27.69,1231,21,0,Diya Sinha,India,Bihar,Male,1983-12-22,2026-05-11,N,5.0,1.0
